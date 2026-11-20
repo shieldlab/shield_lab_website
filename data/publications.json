@@ -1,0 +1,1922 @@
+[
+  {
+    "index": 73,
+    "title": "Breaking Sensor-Text Alignment: Cross-Modal Attack on Contrastive Multimodal Human Activity Recognition",
+    "authors": [
+      "Malithi Mithsara Wanniarachchi Kankanamge",
+      "Ning Yang",
+      "Ahmed Imteaj",
+      "Abdur R. Shahid"
+    ],
+    "venue": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops",
+    "year": "2026",
+    "type": "Workshop",
+    "url": "https://openaccess.thecvf.com/content/CVPR2026W/SenseOfSpace/html/Kankanamge_Breaking_Sensor-Text_Alignment_Cross-Modal_Attack_on_Contrastive_Multimodal_Human_Activity_CVPRW_2026_paper.html",
+    "volume": "",
+    "number": "",
+    "pages": "3966-3975",
+    "publisher": "",
+    "doi": "",
+    "pdf": "https://openaccess.thecvf.com/content/CVPR2026W/SenseOfSpace/papers/Kankanamge_Breaking_Sensor-Text_Alignment_Cross-Modal_Attack_on_Contrastive_Multimodal_Human_Activity_CVPRW_2026_paper.pdf",
+    "abstract": "",
+    "note": "",
+    "researchAreaIds": [
+      "ai-security-privacy-forensics",
+      "llms-multimodal-agentic-ai",
+      "cyber-physical-systems"
+    ]
+  },
+  {
+    "index": 86,
+    "title": "Edits in the Wild: A Multilingual Benchmark for Localizing On-Device Generative Image Edits on Consumer Platforms",
+    "authors": [
+      "Mohd. Farhan Israk Soumik",
+      "Awal Ahmed Fime",
+      "Malithi Mithsara Wanniarachchi Kankanamge",
+      "Arun Babu Aryal",
+      "Hoda Joudi Haghighi",
+      "Bibek Koirala",
+      "Ahmed Imteaj",
+      "Abdur R. Shahid"
+    ],
+    "venue": "Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing",
+    "year": "2026",
+    "type": "Conference",
+    "url": "https://aclanthology.org/2026.emnlp-main.1661/",
+    "volume": "",
+    "number": "",
+    "pages": "37756–37789",
+    "publisher": "",
+    "doi": "",
+    "pdf": "",
+    "abstract": "",
+    "note": "",
+    "researchAreaIds": [
+      "ai-security-privacy-forensics",
+      "llms-multimodal-agentic-ai"
+    ]
+  },
+  {
+    "index": 76,
+    "title": "Emotion-Aware Clickbait Attack in Social Media",
+    "authors": [
+      "Syed Mhamudul Hasan",
+      "Mohd Soumik",
+      "Abdur R Shahid"
+    ],
+    "venue": "arXiv preprint arXiv:2604.27369",
+    "year": "2026",
+    "type": "Preprint",
+    "url": "https://arxiv.org/abs/2604.27369",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "pdf": "https://arxiv.org/pdf/2604.27369",
+    "abstract": "",
+    "note": "",
+    "researchAreaIds": [
+      "ai-security-privacy-forensics"
+    ]
+  },
+  {
+    "index": 88,
+    "title": "Evaluating Federated Vision-Language and Vision-Only Models for Privacy-Aware Breast Cancer Imaging",
+    "authors": [
+      "Malithi Mithsara Wanniarachchi Kankanamge",
+      "Ning Yang",
+      "Sree Bash Debnath",
+      "Md Zobaer Islam",
+      "Abdur R Shahid"
+    ],
+    "venue": "arXiv preprint arXiv:2610.36379",
+    "year": "2026",
+    "type": "Preprint",
+    "url": "https://arxiv.org/abs/2610.36379",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "pdf": "https://arxiv.org/pdf/2610.36379",
+    "abstract": "",
+    "note": "",
+    "researchAreaIds": [
+      "ai-security-privacy-forensics",
+      "llms-multimodal-agentic-ai"
+    ]
+  },
+  {
+    "index": 77,
+    "title": "From Notepad AI to Social Media: How Can Text Style Transformation Mitigate Social Harm?",
+    "authors": [
+      "Syed Mhamudul Hasan",
+      "Mohd Soumik",
+      "Abdur R Shahid"
+    ],
+    "venue": "arXiv preprint arXiv:2604.27365",
+    "year": "2026",
+    "type": "Preprint",
+    "url": "https://arxiv.org/abs/2604.27365",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "pdf": "https://arxiv.org/pdf/2604.27365",
+    "abstract": "",
+    "note": "",
+    "researchAreaIds": [
+      "llms-multimodal-agentic-ai"
+    ]
+  },
+  {
+    "index": 78,
+    "title": "Modeling Emotional Dynamics in Agent-to-Agent Interactions on Moltbook",
+    "authors": [
+      "Syed Mhamudul Hasan",
+      "Abdur R Shahid"
+    ],
+    "venue": "arXiv preprint arXiv:2605.20442",
+    "year": "2026",
+    "type": "Preprint",
+    "url": "https://arxiv.org/abs/2605.20442",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "pdf": "https://arxiv.org/pdf/2605.20442",
+    "abstract": "",
+    "note": "",
+    "researchAreaIds": [
+      "llms-multimodal-agentic-ai"
+    ]
+  },
+  {
+    "index": 75,
+    "title": "No Innocence in Styling: Discovery of Privacy Protection Capabilities and Security Risks in Consumer Generative AI Writing Assistants",
+    "authors": [
+      "Mohd. Farhan Israk Soumik",
+      "Syed Mhamudul Hasan",
+      "Wanniarachchi Kankanamge Malithi Mithsara",
+      "Ahmed Imteaj",
+      "Abdur R. Shahid"
+    ],
+    "venue": "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 6: Industry Track)",
+    "year": "2026",
+    "type": "Conference",
+    "url": "https://aclanthology.org/2026.acl-industry.128/",
+    "volume": "",
+    "number": "",
+    "pages": "1866–1885",
+    "publisher": "Association for Computational Linguistics",
+    "doi": "10.18653/v1/2026.acl-industry.128",
+    "pdf": "https://aclanthology.org/2026.acl-industry.128.pdf",
+    "abstract": "",
+    "note": "",
+    "researchAreaIds": [
+      "ai-security-privacy-forensics",
+      "llms-multimodal-agentic-ai"
+    ]
+  },
+  {
+    "index": 87,
+    "title": "Q-Capsule: A Localized Capsule-Based Quantum Neural Architecture for Barren Plateau Mitigation",
+    "authors": [
+      "Awal Ahmed Fime",
+      "Tasfia Zaman Samiha",
+      "Saika Zaman",
+      "Dimitris Pados",
+      "George Sklivanitis",
+      "Abdur R Shahid",
+      "Ahmed Imteaj"
+    ],
+    "venue": "arXiv preprint arXiv:2610.11261",
+    "year": "2026",
+    "type": "Preprint",
+    "url": "https://arxiv.org/abs/2610.11261",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "pdf": "https://arxiv.org/pdf/2610.11261",
+    "abstract": "",
+    "note": "",
+    "researchAreaIds": [
+      "quantum-ai-security"
+    ]
+  },
+  {
+    "index": 70,
+    "title": "Quantifying Robustness and Sustainability Trade-off in Federated Adversarial Learning for Cyber-Physical Systems",
+    "authors": [
+      "Syed Mhamudul Hasan",
+      "Ahmed Imteaj",
+      "Abdur R Shahid"
+    ],
+    "venue": "IEEE Transactions on Sustainable Computing",
+    "year": "2026",
+    "type": "Journal",
+    "url": "https://doi.org/10.1109/TSUSC.2025.3633995",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "IEEE",
+    "doi": "10.1109/TSUSC.2025.3633995",
+    "pdf": "",
+    "abstract": "",
+    "note": "",
+    "researchAreaIds": [
+      "ai-security-privacy-forensics",
+      "secure-sustainable-ai",
+      "cyber-physical-systems"
+    ]
+  },
+  {
+    "index": 72,
+    "title": "Secure Yet Fragile: Adversarial Vulnerabilities of Federated Vision–Language Models in Medical AI",
+    "authors": [
+      "A.A. Fime",
+      "T.Z. Samiha",
+      "M.Z. Hossain",
+      "S. Zaman",
+      "A.M. Shibli",
+      "A.R. Shahid",
+      "Zhen Ni",
+      "A. Imteaj"
+    ],
+    "venue": "Nature Scientific Reports Journal",
+    "year": "2026",
+    "type": "Journal",
+    "url": "https://doi.org/10.1038/s41598-026-48102-4",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "Nature",
+    "doi": "10.1038/s41598-026-48102-4",
+    "pdf": "",
+    "abstract": "",
+    "note": "",
+    "researchAreaIds": [
+      "ai-security-privacy-forensics",
+      "llms-multimodal-agentic-ai"
+    ]
+  },
+  {
+    "index": 84,
+    "title": "VetClaw: An edge-cloud multimodal agentic system for veterinary disease screening",
+    "authors": [
+      "Syed Mhamudul Hasan",
+      "Anas AlSobeh",
+      "Hussein Zangoti",
+      "Abdur R Shahid"
+    ],
+    "venue": "arXiv preprint arXiv:2607.26042",
+    "year": "2026",
+    "type": "Preprint",
+    "url": "https://arxiv.org/abs/2607.26042",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "pdf": "https://arxiv.org/pdf/2607.26042",
+    "abstract": "",
+    "note": "",
+    "researchAreaIds": [
+      "llms-multimodal-agentic-ai"
+    ]
+  },
+  {
+    "index": 90,
+    "title": "When Quantum Entanglement Meets Transformer Attention: A Controlled Study of Quantum Attention Heads",
+    "authors": [
+      "Mohd Farhan Israk Soumik",
+      "Hussein Zangoti",
+      "Arun Babu Aryal",
+      "Ahmed Imteaj",
+      "Abdur R. Shahid"
+    ],
+    "venue": "IEEE International Conference on Tools with Artificial Intelligence (ICTAI)",
+    "year": "2026",
+    "type": "Conference",
+    "url": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "pdf": "assets/papers/ictai-2026-quantum-attention.pdf",
+    "abstract": "A controlled study replaces one transformer attention scorer with a parameterized quantum circuit while matching the surrounding classical model. Simulated TREC-6 and AG News experiments compare separable and non-separable scoring conditions with structural and data-size controls. The evaluated non-separable quantum conditions do not yield a statistically significant accuracy gain over the classical baseline. Increased attention entropy is attributed to nonlinear encoding rather than entangling topology. These findings are limited to the studied datasets, circuit choices and simulation settings; they do not establish a general absence of quantum benefits or practical quantum advantage.",
+    "note": "",
+    "researchAreaIds": [
+      "quantum-ai-security"
+    ],
+    "conferenceProgramUrl": "https://ictai.computer.org/2026/wp-content/uploads/sites/7/2026/10/ICTAI-Conference-Program.pdf"
+  },
+  {
+    "index": 68,
+    "title": "A comprehensive survey of large language models for human activity recognition: opportunities, challenges, and future directions",
+    "authors": [
+      "Malithi Mithsara Wanniarachchi Kankanamge",
+      "Syed Mhamudul Hasan",
+      "Hussein Zangoti",
+      "Ahmed Imteaj",
+      "Ning Yang",
+      "Abdur R Shahid"
+    ],
+    "venue": "TechRxiv",
+    "year": "2025",
+    "type": "Preprint",
+    "url": "https://doi.org/10.36227/techrxiv.176162216.64823146/v1",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "TechRxiv",
+    "doi": "10.36227/techrxiv.176162216.64823146/v1",
+    "pdf": "https://d197for5662m48.cloudfront.net/documents/publicationstatus/287103/preprint_pdf/d3bb97860e7386262a402849fa2f69b1.pdf",
+    "abstract": "",
+    "note": "",
+    "researchAreaIds": [
+      "llms-multimodal-agentic-ai",
+      "cyber-physical-systems"
+    ]
+  },
+  {
+    "index": 69,
+    "title": "Adaptive and Robust Data Poisoning Detection and Sanitization in Wearable IoT Systems using Large Language Models",
+    "authors": [
+      "W. K. M Mithsara",
+      "Ning Yang",
+      "Ahmed Imteaj",
+      "Hussein Zangoti",
+      "Abdur R. Shahid"
+    ],
+    "venue": "arXiv",
+    "year": "2025",
+    "type": "Preprint",
+    "url": "https://arxiv.org/abs/2511.02894",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "pdf": "https://arxiv.org/pdf/2511.02894",
+    "abstract": "",
+    "note": "",
+    "researchAreaIds": [
+      "ai-security-privacy-forensics",
+      "llms-multimodal-agentic-ai",
+      "cyber-physical-systems"
+    ]
+  },
+  {
+    "index": 55,
+    "title": "Audio Editing Features As User-Centric Privacy Defenses Against Large Language Model (LLM)-Based Emotion Inference Attacks",
+    "authors": [
+      "Mohd. Farhan Israk Soumik",
+      "W.K.M Mithsara",
+      "Abdur Rahman Bin Shahid",
+      "Ahmed Imteaj"
+    ],
+    "venue": "The Sixth AAAI-25 Workshop on Privacy-Preserving Artificial Intelligence",
+    "year": "2025",
+    "type": "Workshop",
+    "url": "https://arxiv.org/abs/2501.18727",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "https://arxiv.org/abs/2501.18727",
+    "doi": "",
+    "pdf": "https://arxiv.org/pdf/2501.18727",
+    "abstract": "",
+    "note": "",
+    "researchAreaIds": [
+      "ai-security-privacy-forensics",
+      "llms-multimodal-agentic-ai"
+    ]
+  },
+  {
+    "index": 59,
+    "title": "Benchmarking large-language models for resource-efficient medical AI for edge deployment",
+    "authors": [
+      "Awal Ahmed Fime",
+      "Md Zarif Hossain",
+      "Saika Zaman",
+      "Abdur Rahman Bin Shahid",
+      "Ahmed Imteaj"
+    ],
+    "venue": "Proceedings of the AAAI Symposium Series",
+    "year": "2025",
+    "type": "Symposium",
+    "url": "https://doi.org/10.1609/aaaiss.v5i1.35580",
+    "volume": "5",
+    "number": "1",
+    "pages": "137-142",
+    "publisher": "",
+    "doi": "10.1609/aaaiss.v5i1.35580",
+    "pdf": "https://ojs.aaai.org/index.php/AAAI-SS/article/download/35580/37735",
+    "abstract": "This paper compares parameter-efficient fine-tuning of large language models for medical question answering, considering answer quality and resource efficiency for edge deployment.",
+    "note": "",
+    "researchAreaIds": [
+      "llms-multimodal-agentic-ai",
+      "secure-sustainable-ai"
+    ]
+  },
+  {
+    "index": 71,
+    "title": "Breaking and Securing Vision-Language Models: An Adversarial Robustness Study",
+    "authors": [
+      "Md Zarif Hossain",
+      "Abdur R Shahid",
+      "Ahmed Imteaj"
+    ],
+    "venue": "2025 International Conference on Machine Learning and Applications (ICMLA)",
+    "year": "2025",
+    "type": "Conference",
+    "url": "https://doi.org/10.1109/ICMLA66185.2025.00215",
+    "volume": "",
+    "number": "",
+    "pages": "1411-1416",
+    "publisher": "IEEE",
+    "doi": "10.1109/ICMLA66185.2025.00215",
+    "pdf": "",
+    "abstract": "",
+    "note": "",
+    "researchAreaIds": [
+      "ai-security-privacy-forensics",
+      "llms-multimodal-agentic-ai"
+    ]
+  },
+  {
+    "index": 64,
+    "title": "Carbon emission quantification of machine learning: A review",
+    "authors": [
+      "Syed Mhamudul Hasan",
+      "Taminul Islam",
+      "Munshi Saifuzzaman",
+      "Khaled R. Ahmed",
+      "Chun-Hsi Huang",
+      "Abdur R. Shahid"
+    ],
+    "venue": "IEEE Transactions on Sustainable Computing",
+    "year": "2025",
+    "type": "Journal",
+    "url": "https://doi.org/10.1109/TSUSC.2025.3578834",
+    "volume": "10",
+    "number": "6",
+    "pages": "1085-1102",
+    "publisher": "IEEE",
+    "doi": "10.1109/TSUSC.2025.3578834",
+    "pdf": "",
+    "abstract": "",
+    "note": "",
+    "researchAreaIds": [
+      "secure-sustainable-ai"
+    ]
+  },
+  {
+    "index": 65,
+    "title": "Development of a Fall Detection and Safety Communication System Using Small Language Models",
+    "authors": [
+      "Malithi Wanniarachchi Kankanamge",
+      "Abdur R Shahid",
+      "Ning Yang",
+      "SM Jamil Uddin",
+      "Rahul Biswas"
+    ],
+    "venue": "ISARC. Proceedings of the International Symposium on Automation and Robotics in Construction",
+    "year": "2025",
+    "type": "Conference",
+    "url": "https://doi.org/10.22260/ISARC2025/0077",
+    "volume": "42",
+    "number": "",
+    "pages": "588-594",
+    "publisher": "IAARC Publications",
+    "doi": "10.22260/ISARC2025/0077",
+    "pdf": "https://www.iaarc.org/publications/fulltext/077_Development_of_a_Fall_Detection_and_Safety_Communication_System_Using_Small_Language_Models.pdf",
+    "abstract": "",
+    "note": "",
+    "researchAreaIds": [
+      "llms-multimodal-agentic-ai",
+      "cyber-physical-systems"
+    ]
+  },
+  {
+    "index": 66,
+    "title": "Development of a Hand-Arm Vibration Syndrome (HAVS) Detection Tool for Construction Workers",
+    "authors": [
+      "SM Jamil Uddin",
+      "Abdur R Shahid",
+      "Mohd Farhan Israk Soumik",
+      "Ziyu Jin"
+    ],
+    "venue": "ISARC. Proceedings of the International Symposium on Automation and Robotics in Construction",
+    "year": "2025",
+    "type": "Conference",
+    "url": "https://doi.org/10.22260/ISARC2025/0159",
+    "volume": "42",
+    "number": "",
+    "pages": "1228-1234",
+    "publisher": "IAARC Publications",
+    "doi": "10.22260/ISARC2025/0159",
+    "pdf": "https://www.iaarc.org/publications/fulltext/159_Development_of_a_Hand-Arm_Vibration_Syndrome_HAVS_Detection_Tool_for_Construction_Workers.pdf",
+    "abstract": "This study proposes a machine-learning approach to assessing hand tremors from hand drawings, exploring a potential tool for monitoring hand-arm vibration syndrome risks among construction workers.",
+    "note": "",
+    "researchAreaIds": [
+      "cyber-physical-systems"
+    ]
+  },
+  {
+    "index": 60,
+    "title": "Digital Forensic Investigation of the ChatGPT Windows Application",
+    "authors": [
+      "Malithi Wanniarachchi Kankanamge",
+      "Nick McKenna",
+      "Santiago Carmona",
+      "Syed Mhamudul Hasan",
+      "Abdur R. Shahid",
+      "Ahmed Imteaj"
+    ],
+    "venue": "arXiv",
+    "year": "2025",
+    "type": "Preprint",
+    "url": "https://arxiv.org/abs/2505.23938",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "pdf": "https://arxiv.org/pdf/2505.23938",
+    "abstract": "",
+    "note": "",
+    "researchAreaIds": [
+      "ai-security-privacy-forensics"
+    ]
+  },
+  {
+    "index": 62,
+    "title": "Evaluating Apple Intelligence's Writing Tools for Privacy Against Large Language Model-Based Inference Attacks: Insights from Early Datasets",
+    "authors": [
+      "Mohd. Farhan Israk Soumik",
+      "Syed Mhamudul Hasan",
+      "Abdur R. Shahid"
+    ],
+    "venue": "arXiv preprint arXiv:2506.03870",
+    "year": "2025",
+    "type": "Preprint",
+    "url": "https://arxiv.org/abs/2506.03870",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "10.48550/arXiv.2506.03870",
+    "pdf": "https://arxiv.org/pdf/2506.03870",
+    "abstract": "",
+    "note": "",
+    "researchAreaIds": [
+      "ai-security-privacy-forensics",
+      "llms-multimodal-agentic-ai"
+    ]
+  },
+  {
+    "index": 51,
+    "title": "Evaluating sustainability and social costs of adversarial training in machine learning",
+    "authors": [
+      "Syed Mhamudul Hasan",
+      "Abdur R. Shahid",
+      "Ahmed Imteaj"
+    ],
+    "venue": "IEEE Consumer Electronics Magazine",
+    "year": "2025",
+    "type": "Journal",
+    "url": "https://doi.org/10.1109/MCE.2024.3458350",
+    "volume": "14",
+    "number": "3",
+    "pages": "27-34",
+    "publisher": "IEEE",
+    "doi": "10.1109/MCE.2024.3458350",
+    "pdf": "",
+    "abstract": "",
+    "note": "2025 issue publication; DOI and lab listing reflect 2024 early access.",
+    "researchAreaIds": [
+      "ai-security-privacy-forensics",
+      "secure-sustainable-ai"
+    ]
+  },
+  {
+    "index": 67,
+    "title": "How Reliable Are Large Language Models? Zero-Shot Detection of Construction Hazards",
+    "authors": [
+      "Nishi Chaudhary",
+      "SM Jamil Uddin",
+      "Mahzabin Tamanna",
+      "Alex Albert",
+      "Abdur Rahman Bin Shahid"
+    ],
+    "venue": "ISARC. Proceedings of the International Symposium on Automation and Robotics in Construction",
+    "year": "2025",
+    "type": "Conference",
+    "url": "https://doi.org/10.22260/ISARC2025/0085",
+    "volume": "42",
+    "number": "",
+    "pages": "649-656",
+    "publisher": "IAARC Publications",
+    "doi": "10.22260/ISARC2025/0085",
+    "pdf": "",
+    "abstract": "",
+    "note": "",
+    "researchAreaIds": [
+      "llms-multimodal-agentic-ai",
+      "cyber-physical-systems"
+    ]
+  },
+  {
+    "index": 74,
+    "title": "Privacy-Preserving Multimodal Stress Detection from Wearables with Attention Fusion and Federated Learning",
+    "authors": [
+      "Mohd Farhan Israk Soumik",
+      "Hussein Zangoti",
+      "Ebrahim Maghsoudlou",
+      "Awal Ahmed Fime",
+      "Ahmed Imteaj",
+      "Abdur R Shahid"
+    ],
+    "venue": "2025 International Conference on Machine Learning and Applications (ICMLA)",
+    "year": "2025",
+    "type": "Conference",
+    "url": "https://doi.org/10.1109/ICMLA66185.2025.00209",
+    "volume": "",
+    "number": "",
+    "pages": "1369-1375",
+    "publisher": "IEEE",
+    "doi": "10.1109/ICMLA66185.2025.00209",
+    "pdf": "",
+    "abstract": "",
+    "note": "",
+    "researchAreaIds": [
+      "ai-security-privacy-forensics",
+      "llms-multimodal-agentic-ai",
+      "cyber-physical-systems"
+    ]
+  },
+  {
+    "index": 57,
+    "title": "Sponge attacks on sensing ai: Energy-latency vulnerabilities and defense via model pruning",
+    "authors": [
+      "Syed Mhamudul Hasan",
+      "Hussein Zangoti",
+      "Iraklis Anagnostopoulos",
+      "Abdur R. Shahid"
+    ],
+    "venue": "GLOBECOM 2025-2025 IEEE Global Communications Conference",
+    "year": "2025",
+    "type": "Conference",
+    "url": "https://doi.org/10.1109/GLOBECOM59602.2025.11432163",
+    "volume": "",
+    "number": "",
+    "pages": "4445-4450",
+    "publisher": "IEEE",
+    "doi": "10.1109/GLOBECOM59602.2025.11432163",
+    "pdf": "",
+    "abstract": "",
+    "note": "",
+    "researchAreaIds": [
+      "ai-security-privacy-forensics",
+      "secure-sustainable-ai",
+      "cyber-physical-systems"
+    ]
+  },
+  {
+    "index": 63,
+    "title": "Towards trustworthy autonomous vehicles with vision-language models under targeted and untargeted adversarial attacks",
+    "authors": [
+      "Awal Ahmed Fime",
+      "Md Zarif Hossain",
+      "Saika Zaman",
+      "Abdur R Shahid",
+      "Ahmed Imteaj"
+    ],
+    "venue": "2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)",
+    "year": "2025",
+    "type": "Workshop",
+    "url": "https://openaccess.thecvf.com/content/CVPR2025W/TCV/html/Fime_Towards_Trustworthy_Autonomous_Vehicles_with_Vision-Language_Models_Under_Targeted_and_CVPRW_2025_paper.html",
+    "volume": "",
+    "number": "",
+    "pages": "619-628",
+    "publisher": "IEEE",
+    "doi": "",
+    "pdf": "",
+    "abstract": "",
+    "note": "",
+    "researchAreaIds": [
+      "ai-security-privacy-forensics",
+      "llms-multimodal-agentic-ai",
+      "cyber-physical-systems"
+    ]
+  },
+  {
+    "index": 47,
+    "title": "A Framework for A Masters in Applied Artificial Intelligence Program in Computer and Information Systems Discipline",
+    "authors": [
+      "Abdur Shahid",
+      "Sushma Mishra"
+    ],
+    "venue": "Journal of Information Systems Education",
+    "year": "2024",
+    "type": "Journal",
+    "url": "https://doi.org/10.62273/EQZE3625",
+    "volume": "35",
+    "number": "4",
+    "pages": "",
+    "publisher": "",
+    "doi": "10.62273/EQZE3625",
+    "pdf": "",
+    "abstract": "",
+    "note": "",
+    "researchAreaIds": []
+  },
+  {
+    "index": 36,
+    "title": "Context-Aware Spatiotemporal Poisoning Attacks on Wearable-Based Activity Recognition",
+    "authors": [
+      "Abdur R. Shahid",
+      "Syed Mhamudul Hasan",
+      "Ahmed Imteaj",
+      "Shahriar Badsha"
+    ],
+    "venue": "IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)",
+    "year": "2024",
+    "type": "Workshop",
+    "url": "https://doi.org/10.1109/infocomwkshps61880.2024.10620768",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "10.1109/infocomwkshps61880.2024.10620768",
+    "pdf": "",
+    "abstract": "",
+    "note": "",
+    "researchAreaIds": [
+      "ai-security-privacy-forensics",
+      "cyber-physical-systems"
+    ]
+  },
+  {
+    "index": 49,
+    "title": "Detection of Poisoning Attacks in Human Activity Recognition using Large Language Models",
+    "authors": [
+      "W.K.M Mithsara",
+      "Abdur R. Shahid",
+      "Ning Yang"
+    ],
+    "venue": "IEEE-EMBS International Conference on Body Sensor Networks (IEEE BSN)",
+    "year": "2024",
+    "type": "Conference Poster",
+    "url": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "pdf": "",
+    "abstract": "",
+    "note": "",
+    "researchAreaIds": [
+      "ai-security-privacy-forensics",
+      "llms-multimodal-agentic-ai",
+      "cyber-physical-systems"
+    ],
+    "conferenceProgramUrl": "https://bsn.embs.org/2024/wp-content/uploads/sites/110/2024/10/IEEE-BSN-2024_Program.pdf"
+  },
+  {
+    "index": 40,
+    "title": "Distributed threat intelligence at the edge devices: A large language model-driven approach",
+    "authors": [
+      "Syed Mhamudul Hasan",
+      "Alaa M Alotaibi",
+      "Sajedul Talukder",
+      "Abdur R Shahid"
+    ],
+    "venue": "2024 IEEE 48th Annual Computers, Software, and Applications Conference (COMPSAC)",
+    "year": "2024",
+    "type": "Conference",
+    "url": "https://doi.org/10.1109/compsac61105.2024.00206",
+    "volume": "",
+    "number": "",
+    "pages": "1496-1497",
+    "publisher": "IEEE",
+    "doi": "10.1109/compsac61105.2024.00206",
+    "pdf": "",
+    "abstract": "",
+    "note": "",
+    "researchAreaIds": [
+      "ai-security-privacy-forensics",
+      "llms-multimodal-agentic-ai",
+      "secure-sustainable-ai"
+    ]
+  },
+  {
+    "index": 44,
+    "title": "Enhancing Road Safety through Cost-Effective, Real-Time Monitoring of Driver Awareness with Resource-Constrained IoT Devices",
+    "authors": [
+      "Ahmed Imteaj",
+      "Tanveer Rahman",
+      "Saika Zaman",
+      "Md Zarif Hossain",
+      "Abdur R. Shahid"
+    ],
+    "venue": "48th IEEE International Conference on Computers, Software, and Applications (COMPSAC 2024)",
+    "year": "2024",
+    "type": "Conference",
+    "url": "https://doi.org/10.1109/compsac61105.2024.00270",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "10.1109/compsac61105.2024.00270",
+    "pdf": "",
+    "abstract": "",
+    "note": "",
+    "researchAreaIds": [
+      "secure-sustainable-ai",
+      "cyber-physical-systems"
+    ]
+  },
+  {
+    "index": 43,
+    "title": "Fedavo: Improving communication efficiency in federated learning with african vultures optimizer",
+    "authors": [
+      "Md Zarif Hossain",
+      "Ahmed Imteaj",
+      "Abdur R. Shahid"
+    ],
+    "venue": "Accepted in 48th IEEE International Conference on Computers, Software, and Applications (COMPSAC 2024) arXiv preprint arXiv:2305.01154",
+    "year": "2024",
+    "type": "Conference",
+    "url": "https://doi.org/10.1109/compsac61105.2024.00069",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "10.1109/compsac61105.2024.00069",
+    "pdf": "",
+    "abstract": "",
+    "note": "",
+    "researchAreaIds": [
+      "secure-sustainable-ai"
+    ]
+  },
+  {
+    "index": 42,
+    "title": "FLAMINGO: Adaptive and Resilient Federated Meta-Learning against Adversarial Attacks",
+    "authors": [
+      "Md Zarif Hossain",
+      "Ahmed Imteaj",
+      "Abdur R. Shahid"
+    ],
+    "venue": "2024 IEEE 44th International Conference on Distributed Computing Systems Workshops (ICDCSW)",
+    "year": "2024",
+    "type": "Workshop",
+    "url": "https://doi.org/10.1109/ICDCSW63686.2024.00009",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "10.1109/icdcsw63686.2024.00009",
+    "pdf": "https://par.nsf.gov/servlets/purl/10575888",
+    "abstract": "",
+    "note": "",
+    "researchAreaIds": [
+      "ai-security-privacy-forensics",
+      "secure-sustainable-ai"
+    ]
+  },
+  {
+    "index": 34,
+    "title": "From Early Adoption to Ethical Adoption: A Diffusion of Innovation Perspective on ChatGPT and Large Language Models in the Classroom",
+    "authors": [
+      "Mohammad Imran",
+      "Abdur R. Shahid",
+      "Minghui Hou",
+      "Ahmed Imteaj"
+    ],
+    "venue": "TechRxiv",
+    "year": "2024",
+    "type": "Preprint",
+    "url": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "10.36227/techrxiv.170630660.06963201/v1",
+    "pdf": "https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.170630660.06963201/v1?redirectToLatest=false",
+    "abstract": "",
+    "note": "",
+    "researchAreaIds": [
+      "llms-multimodal-agentic-ai"
+    ]
+  },
+  {
+    "index": 35,
+    "title": "Generative AI-Based Land Cover Classification via Federated Learning CNNs: Sustainable Insights from UAV Imagery",
+    "authors": [
+      "Oleksandr Jockusch",
+      "Md Zarif Hossain",
+      "Ahmed Imteaj",
+      "Abdur R. Shahid"
+    ],
+    "venue": "IEEE Conference on Technologies for Sustainability (SusTech 2024)",
+    "year": "2024",
+    "type": "Conference",
+    "url": "https://doi.org/10.1109/sustech60925.2024.10553449",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "10.1109/sustech60925.2024.10553449",
+    "pdf": "",
+    "abstract": "",
+    "note": "",
+    "researchAreaIds": [
+      "cyber-physical-systems"
+    ]
+  },
+  {
+    "index": 52,
+    "title": "Intelligent Fall Detection and Emergency Response for Smart Homes Using Language Models",
+    "authors": [
+      "W.K.M Mithsara",
+      "Abdur R. Shahid",
+      "Ning Yang"
+    ],
+    "venue": "23rd International Conference on Machine Learning and Applications (ICMLA 2024)",
+    "year": "2024",
+    "type": "Conference",
+    "url": "https://doi.org/10.1109/ICMLA61862.2024.00037",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "10.1109/ICMLA61862.2024.00037",
+    "pdf": "",
+    "abstract": "",
+    "note": "",
+    "researchAreaIds": [
+      "llms-multimodal-agentic-ai",
+      "cyber-physical-systems"
+    ]
+  },
+  {
+    "index": 45,
+    "title": "Large Language Model Integrated Healthcare Cyber-Physical Systems Architecture",
+    "authors": [
+      "Malithi Wanniarachchi Kankanamge",
+      "Syed Mhamudul Hasan",
+      "Abdur R. Shahid",
+      "Ning Yang"
+    ],
+    "venue": "48th IEEE International Conference on Computers, Software, and Applications (COMPSAC 2024)",
+    "year": "2024",
+    "type": "Conference",
+    "url": "https://doi.org/10.1109/compsac61105.2024.00228",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "10.1109/compsac61105.2024.00228",
+    "pdf": "",
+    "abstract": "",
+    "note": "",
+    "researchAreaIds": [
+      "llms-multimodal-agentic-ai",
+      "cyber-physical-systems"
+    ]
+  },
+  {
+    "index": 24,
+    "title": "Leveraging Blockchain Interoperability for Interdependent Networks",
+    "authors": [
+      "Ahmed Imteaj",
+      "Abdur R. Shahid",
+      "Saika Zaman"
+    ],
+    "venue": "IEEE Consumer Electronics Magazine",
+    "year": "2024",
+    "type": "Journal",
+    "url": "https://doi.org/10.1109/mce.2023.3245283",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "IEEE",
+    "doi": "10.1109/mce.2023.3245283",
+    "pdf": "",
+    "abstract": "",
+    "note": "2024 issue publication; the supplied bibliography lists 2023 early access.",
+    "researchAreaIds": []
+  },
+  {
+    "index": 54,
+    "title": "Poster: Leveraging Large Language Models for Zero-Shot Detection and Mitigation of Data Poisoning in Wearable AI Systems",
+    "authors": [
+      "Malithi Wanniarachchi Kankanamge",
+      "Abdur R Shahid",
+      "Ning Yang"
+    ],
+    "venue": "NeurIPS workshop on GenAI for Health: Potential, Trust and Policy Compliance",
+    "year": "2024",
+    "type": "Poster / abstract",
+    "url": "https://openreview.net/forum?id=GAEZOAqrtA",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "pdf": "https://openreview.net/pdf?id=GAEZOAqrtA",
+    "abstract": "",
+    "note": "",
+    "researchAreaIds": [
+      "ai-security-privacy-forensics",
+      "llms-multimodal-agentic-ai",
+      "cyber-physical-systems"
+    ]
+  },
+  {
+    "index": 30,
+    "title": "Securing Privacy in Cloud-Based Whiteboard Services Against Health Attribute Inference Attacks",
+    "authors": [
+      "Abdur R. Shahid",
+      "Ahmed Imteaj"
+    ],
+    "venue": "IEEE Transactions on Artificial Intelligence",
+    "year": "2024",
+    "type": "Journal",
+    "url": "https://doi.org/10.1109/tai.2024.3352529",
+    "volume": "",
+    "number": "",
+    "pages": "1-13",
+    "publisher": "IEEE",
+    "doi": "10.1109/tai.2024.3352529",
+    "pdf": "",
+    "abstract": "",
+    "note": "",
+    "researchAreaIds": [
+      "ai-security-privacy-forensics"
+    ]
+  },
+  {
+    "index": 41,
+    "title": "SkyWatch: Advancing Real-time Crime Detection via Semi-Federated Meta Learning",
+    "authors": [
+      "Md Zarif Hossain",
+      "Ahmed Imteaj",
+      "Abdur R. Shahid"
+    ],
+    "venue": "44th IEEE International Conference on Distributed Computing Systems (ICDCS'24)",
+    "year": "2024",
+    "type": "Conference",
+    "url": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "pdf": "",
+    "abstract": "",
+    "note": "",
+    "researchAreaIds": [
+      "cyber-physical-systems"
+    ]
+  },
+  {
+    "index": 38,
+    "title": "Sticks and Stones May Break My Bones, But Words Will Never Hurt Me! — Navigating the Cybersecurity Risks of Generative AI",
+    "authors": [
+      "Abdur R. Shahid",
+      "Ahmed Imteaj"
+    ],
+    "venue": "AI & Society",
+    "year": "2024",
+    "type": "Journal",
+    "url": "https://doi.org/10.1007/s00146-024-01934-y",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "Springer",
+    "doi": "10.1007/s00146-024-01934-y",
+    "pdf": "",
+    "abstract": "",
+    "note": "",
+    "researchAreaIds": [
+      "ai-security-privacy-forensics",
+      "llms-multimodal-agentic-ai"
+    ]
+  },
+  {
+    "index": 33,
+    "title": "The Environmental Price of Intelligence: Evaluating the Social Cost of Carbon in Machine Learning",
+    "authors": [
+      "Syed Mhamudul Hasan",
+      "Abdur R. Shahid",
+      "Ahmed Imteaj"
+    ],
+    "venue": "11th IEEE Conference on Technologies for Sustainability (SusTech 2024)",
+    "year": "2024",
+    "type": "Conference",
+    "url": "https://doi.org/10.1109/sustech60925.2024.10553496",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "10.1109/sustech60925.2024.10553496",
+    "pdf": "",
+    "abstract": "",
+    "note": "",
+    "researchAreaIds": [
+      "secure-sustainable-ai"
+    ]
+  },
+  {
+    "index": 39,
+    "title": "Towards sustainable secureml: Quantifying carbon footprint of adversarial machine learning",
+    "authors": [
+      "Syed Mhamudul Hasan",
+      "Abdur R. Shahid",
+      "Ahmed Imteaj"
+    ],
+    "venue": "2024 IEEE International Conference on Communications Workshops (ICC Workshops)",
+    "year": "2024",
+    "type": "Workshop",
+    "url": "https://doi.org/10.1109/ICCWorkshops59551.2024.10615723",
+    "volume": "",
+    "number": "",
+    "pages": "1359-1364",
+    "publisher": "IEEE",
+    "doi": "10.1109/ICCWorkshops59551.2024.10615723",
+    "pdf": "",
+    "abstract": "",
+    "note": "",
+    "researchAreaIds": [
+      "ai-security-privacy-forensics",
+      "secure-sustainable-ai"
+    ]
+  },
+  {
+    "index": 50,
+    "title": "Tripleplay: Enhancing federated learning with clip for non-iid data and resource efficiency",
+    "authors": [
+      "Ahmed Imteaj",
+      "Md Zarif Hossain",
+      "Saika Zaman",
+      "Abdur R Shahid"
+    ],
+    "venue": "2024 International Conference on Machine Learning and Applications (ICMLA)",
+    "year": "2024",
+    "type": "Conference",
+    "url": "https://doi.org/10.1109/ICMLA61862.2024.00228",
+    "volume": "",
+    "number": "",
+    "pages": "1474-1480",
+    "publisher": "IEEE",
+    "doi": "10.1109/ICMLA61862.2024.00228",
+    "pdf": "",
+    "abstract": "",
+    "note": "",
+    "researchAreaIds": [
+      "llms-multimodal-agentic-ai",
+      "secure-sustainable-ai"
+    ]
+  },
+  {
+    "index": 46,
+    "title": "WatchOverGPT: A Framework for Real-Time Crime Detection and Response Using Wearable Camera and Large Language Model (LLM)",
+    "authors": [
+      "Abdur R. Shahid",
+      "Syed Mhamudul Hasan",
+      "Malithi Wanniarachchi Kankanamge",
+      "Md Zarif Hossain",
+      "Ahmed Imteaj"
+    ],
+    "venue": "48th IEEE International Conference on Computers, Software, and Applications (COMPSAC 2024)",
+    "year": "2024",
+    "type": "Conference",
+    "url": "https://doi.org/10.1109/COMPSAC61105.2024.00351",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "10.1109/compsac61105.2024.00351",
+    "pdf": "",
+    "abstract": "",
+    "note": "",
+    "researchAreaIds": [
+      "llms-multimodal-agentic-ai",
+      "cyber-physical-systems"
+    ]
+  },
+  {
+    "index": 53,
+    "title": "Zero-Shot Detection and Sanitization of Data Poisoning Attacks in Wearable AI using Large Language Models",
+    "authors": [
+      "W.K.M Mithsara",
+      "Abdur R. Shahid",
+      "Ning Yang"
+    ],
+    "venue": "2024 International Conference on Machine Learning and Applications (ICMLA)",
+    "year": "2024",
+    "type": "Conference",
+    "url": "https://doi.org/10.1109/ICMLA61862.2024.00233",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "10.1109/ICMLA61862.2024.00233",
+    "pdf": "",
+    "abstract": "",
+    "note": "",
+    "researchAreaIds": [
+      "ai-security-privacy-forensics",
+      "llms-multimodal-agentic-ai",
+      "cyber-physical-systems"
+    ]
+  },
+  {
+    "index": 26,
+    "title": "Assessing wearable human activity recognition systems against data poisoning attacks in differentially-private federated learning",
+    "authors": [
+      "Abdur R Shahid",
+      "Ahmed Imteaj",
+      "Shahriar Badsha",
+      "Md Zarif Hossain"
+    ],
+    "venue": "2023 IEEE International Conference on Smart Computing (SMARTCOMP)",
+    "year": "2023",
+    "type": "Conference",
+    "url": "https://doi.org/10.1109/smartcomp58114.2023.00085",
+    "volume": "",
+    "number": "",
+    "pages": "355-360",
+    "publisher": "IEEE",
+    "doi": "10.1109/smartcomp58114.2023.00085",
+    "pdf": "",
+    "abstract": "",
+    "note": "",
+    "researchAreaIds": [
+      "ai-security-privacy-forensics",
+      "cyber-physical-systems"
+    ]
+  },
+  {
+    "index": 29,
+    "title": "FLID: Intrusion Attack and Defense Mechanism for Federated Learning-Empowered Connected Autonomous Vehicles",
+    "authors": [
+      "Md Zarif Hossain",
+      "Imteaj Ahmed",
+      "Saika Zaman",
+      "Abdur R Shahid",
+      "Sajedul Talukder",
+      "MH Amini"
+    ],
+    "venue": "2023 6th IEEE Conference on Dependable and Secure Computing (IEEE DSC 2023)",
+    "year": "2023",
+    "type": "Conference",
+    "url": "https://doi.org/10.1109/dsc61021.2023.10354149",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "10.1109/dsc61021.2023.10354149",
+    "pdf": "",
+    "abstract": "",
+    "note": "",
+    "researchAreaIds": [
+      "ai-security-privacy-forensics",
+      "cyber-physical-systems"
+    ]
+  },
+  {
+    "index": 27,
+    "title": "MENTORING IS A NECESSARY PART OF RECRUITING AND RETENTION DIVERSIFIED STUDENTS IN STEM PANEL",
+    "authors": [
+      "Karen Paullet",
+      "Natalya Bromall",
+      "Abdur Shahid"
+    ],
+    "venue": "",
+    "year": "2023",
+    "type": "Panel",
+    "url": "https://iacis.org/conference/proceedings/IACIS_2023_Proceedings",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "pdf": "",
+    "abstract": "",
+    "note": "Venue details are incomplete in the supplied bibliography.",
+    "researchAreaIds": []
+  },
+  {
+    "index": 22,
+    "title": "Protecting Location Privacy in Blockchain-Based Mobile Internet of Things",
+    "authors": [
+      "Abdur R. Shahid",
+      "Niki Pissinou",
+      "Sajedul Talukder"
+    ],
+    "venue": "Principles and Practice of Blockchains",
+    "year": "2023",
+    "type": "Book chapter",
+    "url": "https://doi.org/10.1007/978-3-031-10507-4_5",
+    "volume": "",
+    "number": "",
+    "pages": "93-118",
+    "publisher": "Springer International Publishing, Cham",
+    "doi": "10.1007/978-3-031-10507-4_5",
+    "pdf": "",
+    "abstract": "",
+    "note": "Publisher citation year used; Scholar export contains conflicting 2012/2022 dates.",
+    "researchAreaIds": [
+      "ai-security-privacy-forensics",
+      "cyber-physical-systems"
+    ]
+  },
+  {
+    "index": 21,
+    "title": "A Multidimensional Blockchain Framework For Mobile Internet of Things",
+    "authors": [
+      "Hussein Zangoti",
+      "Alex P. Makki",
+      "Niki Pissinou",
+      "Abdur R. Shahid",
+      "Omar J. Guerra",
+      "Joel Rodriguez"
+    ],
+    "venue": "International Conferences on Trust, Security and Privacy in Computing and Communications (TrustCom)",
+    "year": "2022",
+    "type": "Conference",
+    "url": "https://doi.org/10.1109/trustcom56396.2022.00129",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "10.1109/trustcom56396.2022.00129",
+    "pdf": "",
+    "abstract": "",
+    "note": "",
+    "researchAreaIds": [
+      "cyber-physical-systems"
+    ]
+  },
+  {
+    "index": 23,
+    "title": "Facilitating Internet of Things (IoT) Experience in Computer and Information Systems Education: Faculty Poster Abstract",
+    "authors": [
+      "Abdur R Shahid"
+    ],
+    "venue": "The Journal of Computing Sciences in Colleges",
+    "year": "2022",
+    "type": "Poster / abstract",
+    "url": "https://www.ccsc.org/publications/journals/EA2022.pdf#page=207",
+    "volume": "38",
+    "number": "3",
+    "pages": "207",
+    "publisher": "Consortium for Computing Sciences in Colleges",
+    "doi": "",
+    "pdf": "https://www.ccsc.org/publications/journals/EA2022.pdf#page=207",
+    "abstract": "",
+    "note": "",
+    "researchAreaIds": []
+  },
+  {
+    "index": 25,
+    "title": "Label Flipping Data Poisoning Attack Against Wearable Human Activity Recognition System",
+    "authors": [
+      "Abdur R. shahid",
+      "Ahmed Imteaj",
+      "Wu Peter Y.",
+      "Igoche Diane A.",
+      "Tauhidul Alam"
+    ],
+    "venue": "IEEE Symposium Series on Computational Intelligence (SSCI)",
+    "year": "2022",
+    "type": "Conference",
+    "url": "https://doi.org/10.1109/ssci51031.2022.10022015",
+    "volume": "",
+    "number": "",
+    "pages": "908-914",
+    "publisher": "",
+    "doi": "10.1109/ssci51031.2022.10022015",
+    "pdf": "",
+    "abstract": "",
+    "note": "",
+    "researchAreaIds": [
+      "ai-security-privacy-forensics",
+      "cyber-physical-systems"
+    ]
+  },
+  {
+    "index": 16,
+    "title": "A Study of Differentially Private Machine Learning in Healthcare",
+    "authors": [
+      "Abdur R. Shahid",
+      "Sajedul Talukder"
+    ],
+    "venue": "2021 Innovations in Intelligent Systems and Applications Conference (ASYU)",
+    "year": "2021",
+    "type": "Conference",
+    "url": "https://doi.org/10.1109/asyu52992.2021.9598991",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "10.1109/asyu52992.2021.9598991",
+    "pdf": "",
+    "abstract": "",
+    "note": "",
+    "researchAreaIds": [
+      "ai-security-privacy-forensics"
+    ]
+  },
+  {
+    "index": 20,
+    "title": "Applying local differential privacy in handwriting recognition-based systems: faculty poster abstract",
+    "authors": [
+      "Sajedul Talukder",
+      "Abdur R Shahid"
+    ],
+    "venue": "Journal of Computing Sciences in Colleges",
+    "year": "2021",
+    "type": "Poster / abstract",
+    "url": "https://www.ccsc.org/publications/journals/EA2021.pdf#page=165",
+    "volume": "37",
+    "number": "3",
+    "pages": "163-163",
+    "publisher": "Consortium for Computing Sciences in Colleges",
+    "doi": "",
+    "pdf": "https://www.ccsc.org/publications/journals/EA2021.pdf#page=165",
+    "abstract": "",
+    "note": "",
+    "researchAreaIds": [
+      "ai-security-privacy-forensics"
+    ]
+  },
+  {
+    "index": 17,
+    "title": "Enhancing alternative proof of work for cryptocurrencies using machine learning: faculty poster abstract",
+    "authors": [
+      "Sajedul Talukder",
+      "Abdur R Shahid"
+    ],
+    "venue": "Journal of Computing Sciences in Colleges",
+    "year": "2021",
+    "type": "Poster / abstract",
+    "url": "https://www.ccsc.org/publications/journals/EA2021.pdf#page=157",
+    "volume": "37",
+    "number": "3",
+    "pages": "155-155",
+    "publisher": "Consortium for Computing Sciences in Colleges",
+    "doi": "",
+    "pdf": "https://www.ccsc.org/publications/journals/EA2021.pdf#page=157",
+    "abstract": "",
+    "note": "",
+    "researchAreaIds": []
+  },
+  {
+    "index": 15,
+    "title": "Evaluating Machine Learning Models for Handwriting Recognition-based Systems under Local Differential Privacy",
+    "authors": [
+      "Abdur R. Shahid",
+      "Sajedul Talukder"
+    ],
+    "venue": "2021 Innovations in Intelligent Systems and Applications Conference (ASYU)",
+    "year": "2021",
+    "type": "Conference",
+    "url": "https://doi.org/10.1109/asyu52992.2021.9598983",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "10.1109/asyu52992.2021.9598983",
+    "pdf": "",
+    "abstract": "",
+    "note": "",
+    "researchAreaIds": [
+      "ai-security-privacy-forensics"
+    ]
+  },
+  {
+    "index": 19,
+    "title": "Evaluation of privacy-preserving Logistic Regression and Naive Bayes classifiers in healthcare: faculty poster abstract",
+    "authors": [
+      "Abdur R Shahid",
+      "Sajedul Talukder"
+    ],
+    "venue": "Journal of Computing Sciences in Colleges",
+    "year": "2021",
+    "type": "Poster / abstract",
+    "url": "https://www.ccsc.org/publications/journals/EA2021.pdf#page=166",
+    "volume": "37",
+    "number": "3",
+    "pages": "164-164",
+    "publisher": "Consortium for Computing Sciences in Colleges",
+    "doi": "",
+    "pdf": "https://www.ccsc.org/publications/journals/EA2021.pdf#page=166",
+    "abstract": "",
+    "note": "",
+    "researchAreaIds": [
+      "ai-security-privacy-forensics"
+    ]
+  },
+  {
+    "index": 18,
+    "title": "Privacy-preserving activity recognition from sensor data: faculty poster abstract",
+    "authors": [
+      "Abdur R Shahid",
+      "Sajedul Talukder"
+    ],
+    "venue": "Journal of Computing Sciences in Colleges",
+    "year": "2021",
+    "type": "Poster / abstract",
+    "url": "https://www.ccsc.org/publications/journals/EA2021.pdf#page=167",
+    "volume": "37",
+    "number": "3",
+    "pages": "165-165",
+    "publisher": "Consortium for Computing Sciences in Colleges",
+    "doi": "",
+    "pdf": "https://www.ccsc.org/publications/journals/EA2021.pdf#page=167",
+    "abstract": "",
+    "note": "",
+    "researchAreaIds": [
+      "ai-security-privacy-forensics",
+      "cyber-physical-systems"
+    ]
+  },
+  {
+    "index": 10,
+    "title": "Block-Phasor: A Decentralized Blockchain Framework to Enhance Security of Synchrophasor",
+    "authors": [
+      "Arpan Bhattacharjee",
+      "Shahriar Badsha",
+      "Abdur R. Shahid",
+      "Hanif Livani",
+      "Shamik Sengupta"
+    ],
+    "venue": "2020 Kansas Power and Energy Conference (KPEC)",
+    "year": "2020",
+    "type": "Conference",
+    "url": "https://doi.org/10.1109/kpec47870.2020.9167676",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "10.1109/kpec47870.2020.9167676",
+    "pdf": "",
+    "abstract": "",
+    "note": "",
+    "researchAreaIds": [
+      "ai-security-privacy-forensics",
+      "cyber-physical-systems"
+    ]
+  },
+  {
+    "index": 11,
+    "title": "Delay-Aware Privacy-Preserving Location-Based Services Under Spatiotemporal Constraints",
+    "authors": [
+      "Abdur R. Shahid",
+      "Niki Pissinou",
+      "S.S. Iyengar",
+      "Kia Makki"
+    ],
+    "venue": "International Journal of Communication Systems",
+    "year": "2020",
+    "type": "Journal",
+    "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/dac.4656",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "Wiley",
+    "doi": "10.1002/dac.4656",
+    "pdf": "",
+    "abstract": "",
+    "note": "",
+    "researchAreaIds": [
+      "ai-security-privacy-forensics"
+    ]
+  },
+  {
+    "index": 13,
+    "title": "Leveraging Blockchain for Spoof-Resilient Robot Networks",
+    "authors": [
+      "T Alam",
+      "J Talylor",
+      "S Badsha",
+      "A Shahid",
+      "A.S.M Kayes"
+    ],
+    "venue": "International Conference on Intelligent Robotics and Applications",
+    "year": "2020",
+    "type": "Conference",
+    "url": "https://doi.org/10.1007/978-3-030-66645-3_18",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "10.1007/978-3-030-66645-3_18",
+    "pdf": "",
+    "abstract": "",
+    "note": "",
+    "researchAreaIds": [
+      "ai-security-privacy-forensics",
+      "cyber-physical-systems"
+    ]
+  },
+  {
+    "index": 6,
+    "title": "$ n $-VDD: Location Privacy Protection Based on Voronoi-Delaunay Duality",
+    "authors": [
+      "Wei Zeng",
+      "Abdur B Shahid",
+      "Keyan Zolfaghari",
+      "Aditya Shetty",
+      "Niki Pissinou",
+      "Sitharama S Iyengar"
+    ],
+    "venue": "arXiv preprint arXiv:1906.09158",
+    "year": "2019",
+    "type": "Preprint",
+    "url": "https://arxiv.org/abs/1906.09158",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "10.48550/arXiv.1906.09158",
+    "pdf": "https://arxiv.org/pdf/1906.09158",
+    "abstract": "",
+    "note": "",
+    "researchAreaIds": [
+      "ai-security-privacy-forensics"
+    ]
+  },
+  {
+    "index": 8,
+    "title": "Quantifying location privacy in permissioned blockchain-based internet of things (IoT)",
+    "authors": [
+      "Abdur R. Shahid",
+      "Niki Pissinou",
+      "Laurent Njilla",
+      "Sheila Alemany",
+      "Ahmed Imteaj",
+      "Kia Makki",
+      "Edwin Aguilar"
+    ],
+    "venue": "Proceedings of the 16th EAI International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services (MobiQuitous 2019)",
+    "year": "2019",
+    "type": "Conference",
+    "url": "https://doi.org/10.1145/3360774.3360800",
+    "volume": "",
+    "number": "",
+    "pages": "116-125",
+    "publisher": "",
+    "doi": "10.1145/3360774.3360800",
+    "pdf": "",
+    "abstract": "",
+    "note": "",
+    "researchAreaIds": [
+      "ai-security-privacy-forensics",
+      "cyber-physical-systems"
+    ]
+  },
+  {
+    "index": 7,
+    "title": "RoboFI: autonomous path follower robot for human body detection and geolocalization for search and rescue missions using computer vision and IoT",
+    "authors": [
+      "Ahmed Imteaj",
+      "MA Isfar Jubair Chowdhury",
+      "Mohammad Farshid",
+      "Abdur R Shahid"
+    ],
+    "venue": "2019 1st International Conference on Advances in Science, Engineering and Robotics Technology (ICASERT)",
+    "year": "2019",
+    "type": "Conference",
+    "url": "https://doi.org/10.1109/icasert.2019.8934611",
+    "volume": "",
+    "number": "",
+    "pages": "1-6",
+    "publisher": "IEEE",
+    "doi": "10.1109/icasert.2019.8934611",
+    "pdf": "",
+    "abstract": "",
+    "note": "",
+    "researchAreaIds": [
+      "cyber-physical-systems"
+    ]
+  },
+  {
+    "index": 5,
+    "title": "Sensor-Chain: A Lightweight Scalable Blockchain Framework for Internet of Things",
+    "authors": [
+      "Abdur R. Shahid",
+      "Niki Pissinou",
+      "Corey Staier",
+      "Rain Kwan"
+    ],
+    "venue": "2019 International Conference on Internet of Things (iThings) and IEEE Green Computing and Communications (GreenCom) and IEEE Cyber, Physical and Social Computing (CPSCom) and IEEE Smart Data (SmartData)",
+    "year": "2019",
+    "type": "Conference",
+    "url": "https://doi.org/10.1109/ithings/greencom/cpscom/smartdata.2019.00195",
+    "volume": "",
+    "number": "",
+    "pages": "1154-1161",
+    "publisher": "",
+    "doi": "10.1109/ithings/greencom/cpscom/smartdata.2019.00195",
+    "pdf": "",
+    "abstract": "",
+    "note": "",
+    "researchAreaIds": [
+      "cyber-physical-systems"
+    ]
+  },
+  {
+    "index": 9,
+    "title": "Towards the development of a differentially private lightweight and scalable blockchain for IoT",
+    "authors": [
+      "Abdur R Shahid",
+      "Niki Pissinou",
+      "Laurent Njilla",
+      "Edwin Aguilar",
+      "Eric Perez"
+    ],
+    "venue": "2019 IEEE 16th International Conference on Mobile Ad Hoc and Sensor Systems Workshops (MASSW)",
+    "year": "2019",
+    "type": "Demo",
+    "url": "https://doi.org/10.1109/massw.2019.00045",
+    "volume": "",
+    "number": "",
+    "pages": "172-173",
+    "publisher": "IEEE",
+    "doi": "10.1109/massw.2019.00045",
+    "pdf": "",
+    "abstract": "",
+    "note": "",
+    "researchAreaIds": [
+      "ai-security-privacy-forensics",
+      "cyber-physical-systems"
+    ]
+  },
+  {
+    "index": 12,
+    "title": "Trajectory Privacy Preservation and Lightweight Blockchain Techniques for Mobility-Centric IoT",
+    "authors": [
+      "Abdur Bin Shahid"
+    ],
+    "venue": "",
+    "year": "2019",
+    "type": "Dissertation",
+    "url": "https://digitalcommons.fiu.edu/record/12960?ln=en",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "Florida International University",
+    "doi": "",
+    "pdf": "https://digitalcommons.fiu.edu/record/12960/files/FIDC008855.pdf",
+    "abstract": "",
+    "note": "Venue details are incomplete in the supplied bibliography.",
+    "researchAreaIds": [
+      "ai-security-privacy-forensics",
+      "cyber-physical-systems"
+    ]
+  },
+  {
+    "index": 3,
+    "title": "Check-ins and photos: Spatiotemporal correlation-based location inference attack and defense in location-based social networks",
+    "authors": [
+      "Abdur R Shahid",
+      "Niki Pissinou",
+      "SS Iyengar",
+      "Kia Makki"
+    ],
+    "venue": "2018 17th IEEE International Conference On Trust, Security And Privacy In Computing And Communications/12th IEEE International Conference On Big Data Science And Engineering (TrustCom/BigDataSE)",
+    "year": "2018",
+    "type": "Conference",
+    "url": "https://doi.org/10.1109/trustcom/bigdatase.2018.00280",
+    "volume": "",
+    "number": "",
+    "pages": "1852-1857",
+    "publisher": "IEEE",
+    "doi": "10.1109/trustcom/bigdatase.2018.00280",
+    "pdf": "",
+    "abstract": "",
+    "note": "",
+    "researchAreaIds": [
+      "ai-security-privacy-forensics"
+    ]
+  },
+  {
+    "index": 2,
+    "title": "KLAP for Real-World Protection of Location Privacy",
+    "authors": [
+      "Abdur R. Shahid",
+      "Niki Pissinou",
+      "S.S. Iyengar",
+      "Jerry Miller",
+      "Ziqian Ding",
+      "Teresita Lemus"
+    ],
+    "venue": "2018 IEEE World Congress on Services",
+    "year": "2018",
+    "type": "Conference",
+    "url": "https://doi.org/10.1109/SERVICES.2018.00022",
+    "volume": "",
+    "number": "",
+    "pages": "17-18",
+    "publisher": "",
+    "doi": "10.1109/services.2018.00022",
+    "pdf": "https://par.nsf.gov/servlets/purl/10135144",
+    "abstract": "",
+    "note": "",
+    "researchAreaIds": [
+      "ai-security-privacy-forensics"
+    ]
+  },
+  {
+    "index": 4,
+    "title": "Reputation-Aware Data Fusion and Malicious Participant Detection in Mobile Crowdsensing",
+    "authors": [
+      "Yujian ‘Charles’ Tang*",
+      "Samia Tasnim",
+      "Niki Pissinou",
+      "S. S. Iyengar",
+      "Abdur Shahid"
+    ],
+    "venue": "Workshop on Big Data for CyberSecurity (BigCyber-2018)",
+    "year": "2018",
+    "type": "Workshop",
+    "url": "https://doi.org/10.1109/bigdata.2018.8622335",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "10.1109/bigdata.2018.8622335",
+    "pdf": "",
+    "abstract": "",
+    "note": "",
+    "researchAreaIds": [
+      "ai-security-privacy-forensics",
+      "cyber-physical-systems"
+    ]
+  },
+  {
+    "index": 1,
+    "title": "PPVC: Privacy Preserving Voronoi Cell for location-based services.",
+    "authors": [
+      "Abdur R. Shahid",
+      "Liz Jeukeng",
+      "Wei Zeng",
+      "Niki Pissinou",
+      "S. S. Iyengar",
+      "Sartaj Sahni",
+      "Maite Varela-Conover"
+    ],
+    "venue": "2017 International Conference on Computing, Networking and Communications, ICNC 2017",
+    "year": "2017",
+    "type": "Conference",
+    "url": "https://doi.org/10.1109/iccnc.2017.7876153",
+    "volume": "",
+    "number": "",
+    "pages": "351-355",
+    "publisher": "IEEE",
+    "doi": "10.1109/iccnc.2017.7876153",
+    "pdf": "",
+    "abstract": "",
+    "note": "",
+    "researchAreaIds": [
+      "ai-security-privacy-forensics"
+    ]
+  },
+  {
+    "index": 0,
+    "title": "Diffeomorphism Spline",
+    "authors": [
+      "Wei Zeng",
+      "Muhammad Razib",
+      "Abdur Bin Shahid"
+    ],
+    "venue": "Axioms",
+    "year": "2015",
+    "type": "Journal",
+    "url": "https://www.mdpi.com/2075-1680/4/2/156",
+    "volume": "4",
+    "number": "2",
+    "pages": "156-176",
+    "publisher": "Axioms",
+    "doi": "10.3390/axioms4020156",
+    "pdf": "",
+    "abstract": "",
+    "note": "",
+    "researchAreaIds": []
+  }
+]

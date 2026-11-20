@@ -1,0 +1,31 @@
+{
+  "cps": [
+    {
+      "term": "Spring 2026 Project Topics",
+      "projects": [
+        {
+          "title": "Wearable Data Chatbot Using Existing Datasets with Large Language Models",
+          "description": "Project scope: a user interface, LLM-based sensor data analysis using existing wearable datasets, and prompt engineering."
+        },
+        {
+          "title": "Smartphone-Based Wearable Human Activity Recognition App"
+        },
+        {
+          "title": "AI-Assisted Interpretation of Wearable Sensor Data"
+        },
+        {
+          "title": "Daily Activity Pattern Visualization from Wearable Sensors"
+        },
+        {
+          "title": "Wearable Sensor Data Quality and Noise Analysis"
+        },
+        {
+          "title": "Fall Detection Using Smartphone Wearable Sensors"
+        },
+        {
+          "title": "Activity Reminder App"
+        }
+      ]
+    }
+  ]
+}

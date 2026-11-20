@@ -1,0 +1,264 @@
+[
+  {
+    "id": "director",
+    "name": "Abdur Rahman Bin Shahid",
+    "role": "Principal Investigator and Lab Director",
+    "authorAliases": [
+      "Abdur Rahman Bin Shahid",
+      "Abdur R Shahid"
+    ],
+    "verifiedPublicationIds": [
+      0,
+      4,
+      6,
+      12,
+      13,
+      27,
+      47,
+      72
+    ],
+    "profileLinks": {
+      "website": "https://faculty.siu.edu/profiles/q-s/shahid-abdur.php",
+      "linkedin": "https://www.linkedin.com/in/arbinshahid",
+      "scholar": "https://scholar.google.com/citations?user=TmUTP9AAAAAJ&hl=en",
+      "github": ""
+    },
+    "profileLinkLabels": {
+      "website": "Faculty website"
+    }
+  },
+  {
+    "id": "syed-mhamudul-hasan",
+    "name": "Syed Mhamudul Hasan",
+    "role": "Ph.D. Student",
+    "image": "team-1-pencil.webp",
+    "interests": "Cyber-physical systems, cybersecurity, AI and adversarial machine learning, with a focus on sustainable AI.",
+    "bio": "Syed is a Ph.D. student in Computer Science at Southern Illinois University Carbondale, where he has studied since Fall 2023 under the supervision of Dr. Abdur Rahman Bin Shahid. His research examines adversarial and fairness-targeted attacks, and the trade-offs between AI robustness and sustainability.",
+    "education": [
+      "BS in Computer Science and Engineering, Bangladesh University of Engineering and Technology"
+    ],
+    "authorAliases": [
+      "Syed Mhamudul Hasan"
+    ],
+    "experience": "Before his PhD, Syed worked in software development, cloud computing and DevOps. Beginning with .NET applications, he later used Angular, Ruby on Rails, PHP Laravel and Java, and deployed applications on AWS. At Dynamic Solution Innovators, his DevOps work included managing large-scale Kubernetes deployments.",
+    "certifications": [
+      "AWS Cloud Practitioner",
+      "AWS Solutions Architect – Associate",
+      "Kubernetes and Cloud Native Associate (KCNA)",
+      "CompTIA Network+",
+      "CompTIA Security+"
+    ],
+    "profileLinks": {
+      "website": "https://akash073.github.io/",
+      "scholar": "https://scholar.google.com/citations?user=-WbnkfsAAAAJ&hl=en",
+      "linkedin": "https://www.linkedin.com/in/syed-mhamudul-hasan",
+      "github": "https://github.com/shieldlab"
+    },
+    "profileLinkLabels": {
+      "github": "Lab GitHub"
+    }
+  },
+  {
+    "id": "malithi-wanniarachchi-kankanamge",
+    "name": "Malithi Wanniarachchi Kankanamge",
+    "role": "Ph.D. Student",
+    "image": "team-2-pencil.webp",
+    "interests": "Secure and privacy-preserving sensing; adversarial attacks and data poisoning detection; contrastive sensor-text alignment; large and small language models; federated learning for personalized health support.",
+    "bio": "Malithi is a Ph.D. student in Computer Science at Southern Illinois University Carbondale, co-advised by Dr. Shahid and Dr. Ning Yang since Spring 2024. Her research connects human activity recognition, wearable AI and multimodal sensor-language learning with trustworthy AI for healthcare and smart environments.",
+    "education": [
+      "MS in Computer Science, University of Sri Jayewardenepura",
+      "BS in Physical Science, University of Sri Jayewardenepura"
+    ],
+    "website": "https://malithi-gif.github.io/Portfolio-Malithi/",
+    "authorAliases": [
+      "Malithi Mithsara Wanniarachchi Kankanamge",
+      "Malithi Wanniarachchi Kankanamge",
+      "Wanniarachchi Kankanamge Malithi Mithsara"
+    ],
+    "verifiedPublicationIds": [
+      73,
+      69,
+      55,
+      49,
+      52,
+      53
+    ],
+    "profileLinks": {
+      "website": "https://malithi-gif.github.io/Portfolio-Malithi/",
+      "linkedin": "https://www.linkedin.com/in/malithi-mithsara-6a6668156/",
+      "github": "https://github.com/malithi-gif",
+      "scholar": "https://scholar.google.com/citations?user=gChnHewAAAAJ&hl=en"
+    },
+    "teaching": "As a Graduate Teaching Assistant in the School of Computing, Malithi teaches operating systems and web application development. Her background includes teaching and research assistance in computing.",
+    "skills": [
+      "Machine learning, neural networks and computer security",
+      "Python, Java, PHP, C and C++",
+      "Android application development",
+      "MySQL, SQL and Oracle"
+    ],
+    "awards": [
+      "CVPR 2026 Broadening Participation Scholarship Award, June 2026",
+      "Travel Award, IEEE-EMBS International Conference on Body Sensor Networks, 2024",
+      "Travel and Conference Award, SIU Graduate and Professional Student Council, 2024"
+    ]
+  },
+  {
+    "id": "farhan-israk-soumik",
+    "name": "Mohd. Farhan Israk Soumik",
+    "role": "Ph.D. Student",
+    "image": "team-3-pencil.webp",
+    "interests": "Trustworthy AI, privacy-preserving machine learning, generative-AI forensics, misinformation, human–AI interaction and emerging quantum machine learning.",
+    "bio": "Soumik is a Ph.D. student working with Dr. Shahid at Southern Illinois University Carbondale. His work connects trustworthy AI and social computing, examining privacy and security in generative models and consumer platforms.",
+    "education": [
+      "BS in Computer Science and Engineering, Rajshahi University of Engineering and Technology"
+    ],
+    "website": "https://farhan1503001.github.io/",
+    "authorAliases": [
+      "Mohd Farhan Israk Soumik"
+    ],
+    "verifiedPublicationIds": [
+      76,
+      77,
+      62
+    ],
+    "profileLinks": {
+      "website": "https://farhan1503001.github.io/",
+      "scholar": "https://scholar.google.com/citations?user=gKmSXl8AAAAJ",
+      "github": "https://github.com/farhan1503001",
+      "linkedin": "https://www.linkedin.com/in/mohd-farhan-israk-soumik"
+    },
+    "experience": "His research experience includes SHIELD Lab (June 2025–July 2026) and human–agent interaction work at CVEX/The Arch from August 2026. Earlier, he worked on SAR imagery and land-cover fusion at the Center for Computational and Data Sciences, Independent University, Bangladesh (January 2022–June 2023).",
+    "teaching": "His SIUC graduate teaching experience includes algorithms, networks, operating systems, and Computer Concepts and AI. He previously assisted with programming and data structures at Independent University, Bangladesh.",
+    "awards": [
+      "ACL 2026 Diversity & Inclusion subsidy",
+      "AAAI PPAI 2025 travel grant",
+      "Student volunteer, ACL and EMNLP 2026"
+    ]
+  },
+  {
+    "id": "bhargav-vaddepally",
+    "name": "Bhargav Vaddepally",
+    "role": "Alumnus · M.S. research",
+    "image": "team-4-pencil.webp",
+    "interests": "AI software engineering.",
+    "bio": "Bhargav is a SHIELD Lab alumnus whose research focused on AI software engineering.",
+    "authorAliases": [
+      "Bhargav Vaddepally"
+    ],
+    "profileLinks": {
+      "website": "",
+      "linkedin": "",
+      "scholar": "",
+      "github": ""
+    }
+  },
+  {
+    "id": "nadia-lafontant",
+    "name": "Nadia D. Lafontant",
+    "role": "Alumna · Undergraduate research · REACH",
+    "image": "team-5-pencil.webp",
+    "interests": "Small language model vulnerabilities.",
+    "bio": "Nadia is a SHIELD Lab alumna who conducted undergraduate research through the REACH program, focusing on vulnerabilities in small language models.",
+    "authorAliases": [
+      "Nadia D Lafontant"
+    ],
+    "profileLinks": {
+      "website": "",
+      "linkedin": "",
+      "scholar": "",
+      "github": ""
+    }
+  },
+  {
+    "id": "aman-singh-thakur",
+    "name": "Aman Singh Thakur",
+    "role": "Alumnus · M.S. project, Spring 2024",
+    "initials": "AT",
+    "interests": "Wearable sensing and adversarial machine learning.",
+    "bio": "Aman completed an M.S. project in Spring 2024 focused on wearable sensor data collection for adversarial machine learning.",
+    "authorAliases": [
+      "Aman Singh Thakur"
+    ],
+    "profileLinks": {
+      "website": "",
+      "linkedin": "",
+      "scholar": "",
+      "github": ""
+    }
+  },
+  {
+    "id": "satwik-boyina",
+    "name": "Satwik Boyina",
+    "role": "Alumnus · M.S. project, Spring 2024",
+    "initials": "SB",
+    "interests": "Wearable sensing and activity recognition.",
+    "bio": "Satwik completed an M.S. project in Spring 2024 focused on Hexoskin data integration for activity recognition.",
+    "authorAliases": [
+      "Satwik Boyina"
+    ],
+    "profileLinks": {
+      "website": "",
+      "linkedin": "",
+      "scholar": "",
+      "github": ""
+    }
+  },
+  {
+    "id": "david-weng",
+    "name": "David Weng",
+    "role": "Undergraduate Student",
+    "image": "team-david-weng-pencil.png",
+    "bio": "David is an undergraduate student in SHIELD Lab.",
+    "interests": "",
+    "authorAliases": [],
+    "verifiedPublicationIds": [],
+    "profileLinks": {
+      "website": "",
+      "linkedin": "https://www.linkedin.com/in/david-weng37/",
+      "scholar": "",
+      "github": ""
+    }
+  },
+  {
+    "id": "arun-babu-aryal",
+    "name": "Arun Babu Aryal",
+    "role": "M.S. Student",
+    "image": "team-arun-aryal-pencil.png",
+    "bio": "Arun Babu Aryal is an M.S. student in Computer Science in SHIELD Lab. His research focuses on multimodal AI forensics.",
+    "interests": "Multimodal AI Forensics",
+    "authorAliases": [
+      "Arun Babu Aryal"
+    ],
+    "verifiedPublicationIds": [
+      90,
+      86
+    ],
+    "profileLinks": {
+      "website": "https://www.linkedin.com/in/arun-babu-aryal-38901216b/",
+      "linkedin": "https://www.linkedin.com/in/arun-babu-aryal-38901216b/",
+      "scholar": "https://scholar.google.com/citations?user=u5Br93IAAAAJ&hl=en",
+      "github": ""
+    }
+  },
+  {
+    "id": "godfrey-bosire",
+    "name": "Godfrey Bosire",
+    "role": "M.S. Project Student",
+    "initials": "GB",
+    "bio": "Godfrey is an M.S. project student in SHIELD Lab, studying Cybersecurity and Cyber Systems at Southern Illinois University Carbondale. His project investigates closed-loop evaluation of machine-learning-based control in smart-home IoT networks.",
+    "interests": "Cyber-physical systems security, smart-home IoT, machine learning for network control, and malware analysis.",
+    "education": [
+      "M.S., Cybersecurity and Cyber Systems, Southern Illinois University Carbondale (in progress)",
+      "B.S., Information Security and Forensics, KCA University, Kenya (2024)"
+    ],
+    "authorAliases": [],
+    "verifiedPublicationIds": [],
+    "profileLinks": {
+      "website": "https://www.linkedin.com/in/godfrey-bosire-694458212/",
+      "linkedin": "https://www.linkedin.com/in/godfrey-bosire-694458212/",
+      "scholar": "",
+      "github": ""
+    },
+    "image": "team-godfrey-bosire-pencil.png"
+  }
+]

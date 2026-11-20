@@ -1,0 +1,168 @@
+[
+  {
+    "title": "Carbon Emission Quantification of Machine Learning: A Review",
+    "authors": [
+      "Syed Mhamudul Hasan",
+      "Taminul Islam",
+      "Munshi Saifuzzaman",
+      "Khaled R. Ahmed",
+      "Chun-Hsi Huang",
+      "Abdur R. Shahid"
+    ],
+    "year": 2025,
+    "venue": "IEEE Transactions on Sustainable Computing",
+    "type": "journal",
+    "url": "https://doi.org/10.1109/TSUSC.2025.3578834",
+    "source": "https://api.crossref.org/works/10.1109/TSUSC.2025.3578834"
+  },
+  {
+    "title": "Evaluating Sustainability and Social Costs of Adversarial Training in Machine Learning",
+    "authors": [
+      "Syed Mhamudul Hasan",
+      "Abdur R. Shahid",
+      "Ahmed Imteaj"
+    ],
+    "year": 2025,
+    "venue": "IEEE Consumer Electronics Magazine",
+    "type": "journal",
+    "url": "https://doi.org/10.1109/MCE.2024.3458350",
+    "source": "https://api.crossref.org/works/10.1109/MCE.2024.3458350",
+    "note": "2025 issue publication; DOI and lab listing reflect 2024 early access."
+  },
+  {
+    "title": "Zero-Shot Detection and Sanitization of Data Poisoning Attacks in Wearable AI Using Large Language Models",
+    "authors": [
+      "W.K.M Mithsara",
+      "Abdur R. Shahid",
+      "Ning Yang"
+    ],
+    "year": 2024,
+    "venue": "2024 International Conference on Machine Learning and Applications (ICMLA)",
+    "type": "conference",
+    "url": "https://doi.org/10.1109/ICMLA61862.2024.00233",
+    "source": "https://api.crossref.org/works/10.1109/ICMLA61862.2024.00233"
+  },
+  {
+    "title": "Towards Sustainable SecureML: Quantifying Carbon Footprint of Adversarial Machine Learning",
+    "authors": [
+      "Syed Mhamudul Hasan",
+      "Abdur R. Shahid",
+      "Ahmed Imteaj"
+    ],
+    "year": 2024,
+    "venue": "2024 IEEE International Conference on Communications Workshops (ICC Workshops)",
+    "type": "workshop",
+    "url": "https://doi.org/10.1109/ICCWorkshops59551.2024.10615723",
+    "source": "https://api.crossref.org/works/10.1109/ICCWorkshops59551.2024.10615723"
+  },
+  {
+    "title": "Protecting Location Privacy in Blockchain-Based Mobile Internet of Things",
+    "authors": [
+      "Abdur R. Shahid",
+      "Niki Pissinou",
+      "Sajedul Talukder"
+    ],
+    "year": 2023,
+    "venue": "Principles and Practice of Blockchains",
+    "type": "book chapter",
+    "url": "https://doi.org/10.1007/978-3-031-10507-4_5",
+    "source": "https://link.springer.com/chapter/10.1007/978-3-031-10507-4_5",
+    "note": "Publisher citation and book copyright specify 2023; online-date/Crossref metadata inconsistently says 2012. Uses publisher citation year."
+  },
+  {
+    "title": "Digital Forensic Investigation of the ChatGPT Windows Application",
+    "authors": [
+      "Malithi Wanniarachchi Kankanamge",
+      "Nick McKenna",
+      "Santiago Carmona",
+      "Syed Mhamudul Hasan",
+      "Abdur R. Shahid",
+      "Ahmed Imteaj"
+    ],
+    "year": 2025,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2505.23938",
+    "source": "https://arxiv.org/abs/2505.23938",
+    "note": ""
+  },
+  {
+    "title": "Sponge Attacks on Sensing AI: Energy-Latency Vulnerabilities and Defense via Model Pruning",
+    "authors": [
+      "Syed Mhamudul Hasan",
+      "Hussein Zangoti",
+      "Iraklis Anagnostopoulos",
+      "Abdur R. Shahid"
+    ],
+    "year": 2025,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2505.06454",
+    "source": "https://arxiv.org/abs/2505.06454",
+    "note": ""
+  },
+  {
+    "title": "Adaptive and Robust Data Poisoning Detection and Sanitization in Wearable IoT Systems using Large Language Models",
+    "authors": [
+      "W. K. M Mithsara",
+      "Ning Yang",
+      "Ahmed Imteaj",
+      "Hussein Zangoti",
+      "Abdur R. Shahid"
+    ],
+    "year": 2025,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2511.02894",
+    "source": "https://arxiv.org/abs/2511.02894",
+    "note": ""
+  },
+  {
+    "title": "Exploring Audio Editing Features as User-Centric Privacy Defenses Against Large Language Model(LLM) Based Emotion Inference Attacks",
+    "authors": [
+      "Mohd. Farhan Israk Soumik",
+      "W. K. M. Mithsara",
+      "Abdur R. Shahid",
+      "Ahmed Imteaj"
+    ],
+    "year": 2025,
+    "venue": "arXiv",
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2501.18727",
+    "source": "https://arxiv.org/abs/2501.18727",
+    "note": ""
+  },
+  {
+    "title": "Edits in the Wild: A Multilingual Benchmark for Localizing On-Device Generative Image Edits on Consumer Platforms",
+    "authors": [
+      "Mohd. Farhan Israk Soumik",
+      "Awal Ahmed Fime",
+      "Wanniarachchi Kankanamge Malithi Mithsara",
+      "Arun Babu Aryal",
+      "Hoda Joudi Haghighi",
+      "Bibek Koirala",
+      "Ahmed Imteaj",
+      "Abdur R. Shahid"
+    ],
+    "year": 2026,
+    "venue": "Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing",
+    "type": "conference",
+    "url": "https://aclanthology.org/2026.emnlp-main.1661/",
+    "source": "https://aclanthology.org/2026.emnlp-main.1661/"
+  },
+  {
+    "title": "No Innocence in Styling: Discovery of Privacy Protection Capabilities and Security Risks in Consumer Generative AI Writing Assistants",
+    "authors": [
+      "Mohd. Farhan Israk Soumik",
+      "Syed Mhamudul Hasan",
+      "Wanniarachchi Kankanamge Malithi Mithsara",
+      "Ahmed Imteaj",
+      "Abdur R. Shahid"
+    ],
+    "year": 2026,
+    "venue": "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 6: Industry Track)",
+    "type": "conference",
+    "url": "https://aclanthology.org/2026.acl-industry.128/",
+    "source": "https://aclanthology.org/2026.acl-industry.128/"
+  }
+]

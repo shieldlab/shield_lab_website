@@ -1,0 +1,268 @@
+[
+  {
+    "id": "iin-conference-2026",
+    "date": "2026-10-22",
+    "dateEnd": "2026-10-23",
+    "dateLabel": "Oct 2026",
+    "category": "Conference · Panel",
+    "title": "SHIELD Lab co-organized and presented a clean-energy innovation panel",
+    "summary": "SHIELD Lab co-organized and presented a panel on digital engineering, AI and cybersecurity at the Illinois Innovation Network Conference 2026.",
+    "details": [
+      "Illinois Innovation Network Conference 2026: Powering Illinois’ Future Together · October 2026 · Southern Illinois University Edwardsville.",
+      "Session: Accelerating Clean Energy Innovation through Digital Engineering, AI, and Cybersecurity. Location: Health Sciences 1330.",
+      "Moderator: Todd Rusk, Associate Director, University of Illinois EnergySense Resilience Center.",
+      "SIUC panelists: Md Amzad Hossain; Abdur Rahman Bin Shahid; Md Zahidul Islam; Additya Barua; Syed Mhamudul Hasan; Md Sayed Hasan Rifat."
+    ],
+    "image": "assets/news-iin-panel-original.jpg",
+    "imageAlt": "Dr. Shahid presenting the SHIELD Lab slide at the Illinois Innovation Network conference",
+    "imagePresentation": "slide-presenter"
+  },
+  {
+    "id": "edits-in-the-wild",
+    "date": "2026-08",
+    "category": "Paper acceptance · EMNLP main",
+    "title": "Edits in the Wild accepted to EMNLP 2026",
+    "summary": "Our multilingual benchmark for localizing on-device generative image edits was accepted to the EMNLP 2026 main conference.",
+    "url": "https://aclanthology.org/2026.emnlp-main.1661/",
+    "projectUrl": "https://shieldlab.github.io/On-Device-AI-Edit-Forensics/",
+    "dateLabel": "Aug 2026",
+    "details": [
+      "Edits in the Wild: A Multilingual Benchmark for Localizing On-Device Generative Image Edits on Consumer Platforms."
+    ]
+  },
+  {
+    "id": "no-innocence-in-styling",
+    "date": "2026-07",
+    "category": "Conference presentation · ACL Industry",
+    "title": "Soumik presented No Innocence in Styling at ACL 2026",
+    "summary": "Mohd. Farhan Israk Soumik presented No Innocence in Styling at ACL 2026 in San Diego, sharing research on privacy protection and security risks in consumer generative AI writing assistants.",
+    "url": "https://aclanthology.org/2026.acl-industry.128/",
+    "dateLabel": "Jul 2026",
+    "details": [
+      "No Innocence in Styling: Discovery of Privacy Protection Capabilities and Security Risks in Consumer Generative AI Writing Assistants appeared in the ACL 2026 Industry Track."
+    ],
+    "image": "assets/news-soumik-acl-2026.png",
+    "imageAlt": "Soumik beside his No Innocence in Styling poster at ACL 2026"
+  },
+  {
+    "id": "sponge-attacks",
+    "date": "2025",
+    "category": "Preprint",
+    "title": "Sponge Attacks on Sensing AI",
+    "summary": "Investigating energy–latency vulnerabilities and model-pruning defenses in sensing AI.",
+    "url": "https://arxiv.org/abs/2505.06454",
+    "dateLabel": "2025"
+  },
+  {
+    "id": "emnlp-poster-2026",
+    "date": "2026-10",
+    "dateLabel": "Oct 2026",
+    "category": "Conference presentation · EMNLP",
+    "title": "Soumik presented Edits in the Wild in Budapest",
+    "summary": "Mohd. Farhan Israk Soumik presented the Edits in the Wild poster at EMNLP 2026 in Budapest, Hungary.",
+    "details": [
+      "The presentation shared our multilingual benchmark for localizing on-device generative image edits on consumer platforms. The paper appeared in the EMNLP 2026 main conference."
+    ],
+    "image": "assets/news-emnlp-2026-poster.jpeg",
+    "imageAlt": "Soumik beside the Edits in the Wild poster at EMNLP 2026 in Budapest",
+    "projectUrl": "https://aclanthology.org/2026.emnlp-main.1661/",
+    "projectLabel": "Read the paper"
+  },
+  {
+    "id": "ictai-quantum-acceptance-2026",
+    "date": "2026-09",
+    "dateLabel": "Sep 2026",
+    "category": "Paper acceptance · ICTAI",
+    "title": "Quantum attention research accepted as an ICTAI full paper",
+    "summary": "When Quantum Entanglement Meets Transformer Attention: A Controlled Study of Quantum Attention Heads was accepted as a full paper at ICTAI 2026.",
+    "details": [
+      "The work studies quantum attention heads within transformer architectures."
+    ],
+    "projectUrl": "https://ictai.computer.org/2026/wp-content/uploads/sites/7/2026/10/ICTAI-Conference-Program.pdf",
+    "projectLabel": "Official conference program"
+  },
+  {
+    "id": "malithi-cvpr-2026",
+    "date": "2026-06",
+    "dateLabel": "Jun 2026",
+    "category": "Award & conference participation · CVPR",
+    "title": "Congratulations to Malithi on her CVPR 2026 scholarship",
+    "summary": "Malithi received the CVPR 2026 Broadening Participation Scholarship Award and attended CVPR in Denver, where her sensor–text alignment research was part of the Sense of Space workshop.",
+    "details": [
+      "Breaking Sensor-Text Alignment: Cross-Modal Attack on Contrastive Multimodal Human Activity Recognition investigates attacks on contrastive multimodal activity recognition.",
+      "The Sense of Space workshop took place in June 2026. This work is a CVPR workshop contribution."
+    ],
+    "projectUrl": "https://sense-of-space.github.io/",
+    "projectLabel": "Workshop website",
+    "image": "assets/news-malithi-cvpr-2026.jpg",
+    "imageAlt": "Malithi beside her Breaking Sensor-Text Alignment research poster at CVPR 2026 in Denver",
+    "priority": 1,
+    "paperUrl": "https://openaccess.thecvf.com/content/CVPR2026W/SenseOfSpace/html/Kankanamge_Breaking_Sensor-Text_Alignment_Cross-Modal_Attack_on_Contrastive_Multimodal_Human_Activity_CVPRW_2026_paper.html"
+  },
+  {
+    "id": "nairr-ai-competencies-2026",
+    "date": "2026-06-18",
+    "dateEnd": "2026-06-19",
+    "dateLabel": "Jun 2026",
+    "category": "Conference presentation · AI education",
+    "title": "Dr. Shahid presented sensor-based AI education work at NAIRR",
+    "summary": "Dr. Shahid presented Developing Core AI Competencies Through Sensor Data and Large Language Models at the NAIRR Pilot Classroom Expansion Conference.",
+    "details": [
+      "The Research Emerging – Large conference was held in June 2026, at Embassy Suites by Hilton Orlando Downtown."
+    ],
+    "projectUrl": "https://cra.org/nairr-pilot-conferences-research-emerging-institutions-with-large-computing-programs/",
+    "projectLabel": "Conference details"
+  },
+  {
+    "id": "soumik-acl-service-grant-2026",
+    "date": "2026-06",
+    "dateLabel": "Jun 2026",
+    "category": "Conference service & grant · ACL",
+    "title": "Congratulations to Soumik on ACL 2026 support and service",
+    "summary": "Mohd. Farhan Israk Soumik received an ACL 2026 Diversity and Inclusion (D&I) Subsidy Grant and was selected as an ACL 2026 student volunteer.",
+    "priority": 1
+  },
+  {
+    "id": "soumik-emnlp-volunteer-2026",
+    "date": "2026-09",
+    "dateLabel": "Sep 2026",
+    "category": "Conference service · EMNLP",
+    "title": "Soumik selected as an EMNLP 2026 student volunteer",
+    "summary": "Congratulations to Mohd. Farhan Israk Soumik on his selection as an EMNLP 2026 student volunteer, contributing to the conference community.",
+    "priority": 1
+  },
+  {
+    "id": "access-explore-vlm-2026",
+    "date": "2026-10",
+    "dateLabel": "Oct 2026",
+    "priority": 1,
+    "category": "Research resources · ACCESS Explore",
+    "title": "ACCESS Explore supports federated vision–language model research",
+    "summary": "SHIELD Lab received ACCESS Explore resource support for research on privacy-induced cross-modal representation degradation in federated vision–language models.",
+    "details": [
+      "Understanding and Mitigating Privacy-Induced Cross-Modal Representation Degradation in Federated Vision-Language Models. The active allocation runs October 2026–October 2027."
+    ],
+    "directorGrant": {
+      "title": "Understanding and Mitigating Privacy-Induced Cross-Modal Representation Degradation in Federated Vision-Language Models",
+      "sponsor": "ACCESS Explore grant",
+      "support": "200,000 ACCESS credits · Research-resource allocation, 2026–2027.",
+      "role": "PI",
+      "projectUrl": "https://allocations.access-ci.org/current-projects?_requestNumber=CIS262318"
+    }
+  },
+  {
+    "id": "access-regional-ai-workshop-grant",
+    "date": "2026-10",
+    "dateLabel": "Oct 2026",
+    "priority": 2,
+    "category": "Grant awarded · Upcoming workshop",
+    "title": "NSF ACCESS Regional AI Workshop grant awarded to SHIELD Lab",
+    "summary": "The awarded grant will support Advancing AI Research, Education, and Workforce Development in Southern Illinois and the Midwest, a one-day hybrid workshop planned for September 2027 at Southern Illinois University Carbondale.",
+    "details": [
+      "The upcoming workshop will bring together regional audiences around AI education, interdisciplinary AI research and workforce development.",
+      "The planned program includes ACCESS and NAIRR resources, AI+ degree pathways, hands-on GPU labs and responsible AI."
+    ],
+    "projectUrl": "https://support.access-ci.org/community/regional-ai-workshops",
+    "projectLabel": "Official ACCESS Regional AI Workshops listing",
+    "directorGrant": {
+      "title": "Advancing AI Research, Education, and Workforce Development in Southern Illinois and the Midwest",
+      "sponsor": "NSF ACCESS Regional AI Workshop grant",
+      "support": "$13,250 · Awarded workshop grant; upcoming hybrid workshop in 2027.",
+      "role": "PI"
+    }
+  },
+  {
+    "id": "nairr-fedalign-har-2026",
+    "date": "2026-06",
+    "dateLabel": "Jun 2026",
+    "priority": 1,
+    "category": "Research grant · NAIRR",
+    "title": "NAIRR grant supports wearable sensing security research",
+    "summary": "SHIELD Lab received a NAIRR Start-Up grant for FedAlign-HAR: Federated Security Evaluation of Sensor-Text Alignment in Wearable Human Activity Recognition.",
+    "details": [
+      "The resource allocation period was June–September 2026. The allocation is now inactive."
+    ],
+    "directorGrant": {
+      "title": "FedAlign-HAR: Federated Security Evaluation of Sensor-Text Alignment in Wearable Human Activity Recognition",
+      "sponsor": "NAIRR Start-Up grant",
+      "support": "2,000 GPU hours · Past allocation, 2026; now inactive.",
+      "role": "PI",
+      "projectUrl": "https://submit-nairr.xras.org/current-projects?_requestNumber=NAIRR260238"
+    }
+  },
+  {
+    "id": "nairr-classroom-2026",
+    "date": "2026-07",
+    "dateLabel": "Jul 2026",
+    "priority": 1,
+    "category": "Education grant · NAIRR",
+    "title": "NAIRR Classroom grant supports hands-on AI safety education",
+    "summary": "SHIELD Lab received a NAIRR Classroom grant for Hands-on AI Safety and Security Education for the AI Workforce Using Classroom-Scale LLM Resources.",
+    "details": [
+      "The grant provides Prototype National Research Platform (PNRP) Classroom resources for 25 students, supporting hands-on AI safety and security education.",
+      "Dr. Abdur Rahman Bin Shahid is principal investigator. The resource allocation period is June–December 2026; the grant announcement is dated July 2026."
+    ],
+    "directorGrant": {
+      "title": "Hands-on AI Safety and Security Education for the AI Workforce Using Classroom-Scale LLM Resources",
+      "sponsor": "NAIRR Classroom grant",
+      "support": "GPU and platform support for 25 students · 2026.",
+      "role": "PI",
+      "projectUrl": "https://submit-nairr.xras.org/current-projects?_requestNumber=NAIRR260237"
+    }
+  },
+  {
+    "id": "nairr-consumergenedit-2026",
+    "date": "2026-10",
+    "dateLabel": "Oct 2026",
+    "priority": 1,
+    "category": "Research grant · NAIRR",
+    "title": "NAIRR grant supports trustworthy consumer generative AI research",
+    "summary": "SHIELD Lab received a NAIRR Start-Up grant for ConsumerGenEdit: A Multilingual Benchmark for On-Device Generative Image Editing in Cybersecurity and Trustworthy Multimodal AI.",
+    "details": [
+      "The support includes 2,000 GPU hours on Purdue Anvil AI for the period October 2026–January 2027. Dr. Abdur Rahman Bin Shahid is principal investigator."
+    ],
+    "directorGrant": {
+      "title": "ConsumerGenEdit: A Multilingual Benchmark for On-Device Generative Image Editing in Cybersecurity and Trustworthy Multimodal AI",
+      "sponsor": "NAIRR Start-Up grant",
+      "support": "2,000 GPU hours on Purdue Anvil AI · Allocation, 2026–2027.",
+      "role": "PI",
+      "projectUrl": "https://submit-nairr.xras.org/current-projects?_requestNumber=NAIRR260236"
+    }
+  },
+  {
+    "id": "icmla-2026-special-session",
+    "date": "2026-10",
+    "dateLabel": "Oct 2026",
+    "category": "Professional service · ICMLA",
+    "title": "Dr. Shahid co-chaired two ICMLA 2026 special sessions",
+    "summary": "Dr. Abdur Rahman Bin Shahid served as co-chair of two special sessions, “Multimodal Machine Learning in Practice” and “Graph Machine Learning for Complex Systems and Applications,” at the International Conference on Machine Learning and Applications (ICMLA 2026).",
+    "details": [
+      "The sessions focused on practical multimodal learning and graph learning for interconnected systems."
+    ],
+    "projectUrl": "https://www.icmla-conference.org/icmla26/ss5.html",
+    "projectLabel": "Multimodal Machine Learning in Practice",
+    "relatedUrl": "https://www.icmla-conference.org/icmla26/ss8.html",
+    "relatedLabel": "Graph Machine Learning for Complex Systems and Applications",
+    "priority": 1
+  },
+  {
+    "id": "capital-university-social-work-ai-2026",
+    "date": "2026-11",
+    "dateLabel": "Nov 2026",
+    "category": "Conference presentation",
+    "title": "SHIELD Lab director presents on AI in social work at Capital University",
+    "summary": "Dr. Abdur Rahman Bin Shahid presented “Preparing our Field for the Next Generation of AI-Savvy Social Workers: Strategies for Digital Transformation” at the 35th Annual Scientific Conference of the Faculty of Social Work, Capital University, Egypt.",
+    "priority": 1
+  },
+  {
+    "id": "isqed-review-2027",
+    "date": "2026-11",
+    "dateLabel": "Nov 2026",
+    "category": "Professional service · ISQED",
+    "title": "SHIELD Lab Director Joins ISQED ’27 Review Committee",
+    "summary": "Dr. Abdur Rahman Bin Shahid joined the review committee for the 28th International Symposium on Quality Electronic Design (ISQED ’27).",
+    "projectUrl": "https://www.isqed.org/English/Conference/Call_for_Papers.html",
+    "projectLabel": "Official ISQED ’27 conference information",
+    "archiveOnly": true
+  }
+]

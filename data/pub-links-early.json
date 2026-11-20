@@ -1,0 +1,366 @@
+{
+  "0": {
+    "url": "https://www.mdpi.com/2075-1680/4/2/156",
+    "type": "journal",
+    "year": 2015,
+    "note": "",
+    "doi": "10.3390/axioms4020156",
+    "verified_title": "Diffeomorphism Spline"
+  },
+  "1": {
+    "url": "https://doi.org/10.1109/iccnc.2017.7876153",
+    "doi": "10.1109/iccnc.2017.7876153",
+    "type": "conference",
+    "year": 2017,
+    "note": "Exact/near-exact title and author verified in Crossref publisher deposit.",
+    "verified_title": "PPVC: Privacy Preserving Voronoi Cell for location-based services"
+  },
+  "2": {
+    "url": "https://doi.org/10.1109/SERVICES.2018.00022",
+    "type": "conference",
+    "year": 2018,
+    "note": "Verified NSF full paper.",
+    "doi": "10.1109/services.2018.00022",
+    "pdf": "https://par.nsf.gov/servlets/purl/10135144",
+    "verified_title": "KLAP for Real-World Protection of Location Privacy"
+  },
+  "3": {
+    "url": "https://doi.org/10.1109/trustcom/bigdatase.2018.00280",
+    "doi": "10.1109/trustcom/bigdatase.2018.00280",
+    "year": 2018,
+    "type": "conference",
+    "note": "Title and author match verified in Crossref publisher metadata.",
+    "verified_title": "Check-ins and Photos: Spatiotemporal Correlation-Based Location Inference Attack and Defense in Location-Based Social Networks"
+  },
+  "4": {
+    "url": "https://doi.org/10.1109/bigdata.2018.8622335",
+    "doi": "10.1109/bigdata.2018.8622335",
+    "type": "workshop",
+    "year": 2018,
+    "note": "Exact/near-exact title and author verified in Crossref publisher deposit. BigCyber workshop in Big Data proceedings.",
+    "verified_title": "Reputation-Aware Data Fusion and Malicious Participant Detection in Mobile Crowdsensing"
+  },
+  "5": {
+    "url": "https://doi.org/10.1109/ithings/greencom/cpscom/smartdata.2019.00195",
+    "doi": "10.1109/ithings/greencom/cpscom/smartdata.2019.00195",
+    "type": "conference",
+    "year": 2019,
+    "note": "Exact/near-exact title and author verified in Crossref publisher deposit.",
+    "verified_title": "Sensor-Chain: A Lightweight Scalable Blockchain Framework for Internet of Things"
+  },
+  "6": {
+    "url": "https://arxiv.org/abs/1906.09158",
+    "type": "preprint",
+    "year": 2019,
+    "note": "",
+    "doi": "10.48550/arXiv.1906.09158",
+    "pdf": "https://arxiv.org/pdf/1906.09158"
+  },
+  "7": {
+    "url": "https://doi.org/10.1109/icasert.2019.8934611",
+    "doi": "10.1109/icasert.2019.8934611",
+    "year": 2019,
+    "type": "conference",
+    "note": "Title and author match verified in Crossref publisher metadata.",
+    "verified_title": "RoboFI: Autonomous Path Follower Robot for Human Body Detection and Geolocalization for Search and Rescue Missions using Computer Vision and IoT"
+  },
+  "8": {
+    "url": "https://doi.org/10.1145/3360774.3360800",
+    "doi": "10.1145/3360774.3360800",
+    "year": 2019,
+    "type": "conference",
+    "note": "Title and author match verified in Crossref publisher metadata.",
+    "verified_title": "Quantifying location privacy in permissioned blockchain-based internet of things (IoT)",
+    "title": "Quantifying location privacy in permissioned blockchain-based internet of things (IoT)",
+    "publication": "Proceedings of the 16th EAI International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services (MobiQuitous 2019)",
+    "pages": "116-125",
+    "authors": "Abdur R. Shahid; Niki Pissinou; Laurent Njilla; Sheila Alemany; Ahmed Imteaj; Kia Makki; Edwin Aguilar"
+  },
+  "9": {
+    "url": "https://doi.org/10.1109/massw.2019.00045",
+    "doi": "10.1109/massw.2019.00045",
+    "type": "demo",
+    "year": 2019,
+    "note": "Exact/near-exact title and author verified in Crossref publisher deposit. Published title explicitly says Demo.",
+    "verified_title": "Demo:Towards the Development of a Differentially Private Lightweight and Scalable Blockchain for IoT"
+  },
+  "10": {
+    "url": "https://doi.org/10.1109/kpec47870.2020.9167676",
+    "doi": "10.1109/kpec47870.2020.9167676",
+    "type": "conference",
+    "year": 2020,
+    "note": "Exact/near-exact title and author verified in Crossref publisher deposit.",
+    "verified_title": "Block-Phasor: A Decentralized Blockchain Framework to Enhance Security of Synchrophasor"
+  },
+  "11": {
+    "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/dac.4656",
+    "type": "journal",
+    "year": 2020,
+    "note": "",
+    "doi": "10.1002/dac.4656",
+    "verified_title": "Delay‐aware privacy‐preserving location‐based services under spatiotemporal constraints"
+  },
+  "12": {
+    "url": "https://digitalcommons.fiu.edu/record/12960?ln=en",
+    "type": "dissertation",
+    "year": 2019,
+    "note": "FIU repository.",
+    "pdf": "https://digitalcommons.fiu.edu/record/12960/files/FIDC008855.pdf"
+  },
+  "13": {
+    "url": "https://doi.org/10.1007/978-3-030-66645-3_18",
+    "doi": "10.1007/978-3-030-66645-3_18",
+    "type": "conference",
+    "year": 2020,
+    "note": "Exact/near-exact title and author verified in Crossref publisher deposit.",
+    "verified_title": "Leveraging Blockchain for Spoof-Resilient Robot Networks"
+  },
+  "14": {
+    "url": "https://doi.org/10.1109/iciev.2012.6317458",
+    "doi": "10.1109/iciev.2012.6317458",
+    "year": 2012,
+    "type": "conference",
+    "note": "Title and author match verified in Crossref publisher metadata.",
+    "verified_title": "An image watermarking approach based on Set Partitioning in Hierarchical Trees(SPIHT)algorithm"
+  },
+  "15": {
+    "url": "https://doi.org/10.1109/asyu52992.2021.9598983",
+    "doi": "10.1109/asyu52992.2021.9598983",
+    "year": 2021,
+    "type": "conference",
+    "note": "Title and author match verified in Crossref publisher metadata.",
+    "verified_title": "Evaluating Machine Learning Models for Handwriting Recognition-based Systems under Local Differential Privacy"
+  },
+  "16": {
+    "url": "https://doi.org/10.1109/asyu52992.2021.9598991",
+    "doi": "10.1109/asyu52992.2021.9598991",
+    "year": 2021,
+    "type": "conference",
+    "note": "Title and author match verified in Crossref publisher metadata.",
+    "verified_title": "A Study of Differentially Private Machine Learning in Healthcare"
+  },
+  "17": {
+    "url": "https://www.ccsc.org/publications/journals/EA2021.pdf#page=157",
+    "type": "poster",
+    "year": 2021,
+    "note": "Faculty poster abstract, not full journal article. Publisher PDF printed page 157 differs from CSV pagination.",
+    "pdf": "https://www.ccsc.org/publications/journals/EA2021.pdf#page=157"
+  },
+  "18": {
+    "url": "https://www.ccsc.org/publications/journals/EA2021.pdf#page=167",
+    "type": "poster",
+    "year": 2021,
+    "note": "Faculty poster abstract, not full journal article. Publisher PDF printed page 167 differs from CSV pagination.",
+    "pdf": "https://www.ccsc.org/publications/journals/EA2021.pdf#page=167"
+  },
+  "19": {
+    "url": "https://www.ccsc.org/publications/journals/EA2021.pdf#page=166",
+    "type": "poster",
+    "year": 2021,
+    "note": "Faculty poster abstract, not full journal article. Publisher PDF printed page 166 differs from CSV pagination.",
+    "pdf": "https://www.ccsc.org/publications/journals/EA2021.pdf#page=166"
+  },
+  "20": {
+    "url": "https://www.ccsc.org/publications/journals/EA2021.pdf#page=165",
+    "type": "poster",
+    "year": 2021,
+    "note": "Faculty poster abstract, not full journal article. Publisher PDF printed page 165 differs from CSV pagination.",
+    "pdf": "https://www.ccsc.org/publications/journals/EA2021.pdf#page=165"
+  },
+  "21": {
+    "url": "https://doi.org/10.1109/trustcom56396.2022.00129",
+    "doi": "10.1109/trustcom56396.2022.00129",
+    "year": 2022,
+    "type": "conference",
+    "note": "Title and author match verified in Crossref publisher metadata.",
+    "verified_title": "A Multidimensional Blockchain Framework For Mobile Internet of Things"
+  },
+  "22": {
+    "url": "https://doi.org/10.1007/978-3-031-10507-4_5",
+    "type": "book chapter",
+    "year": 2023,
+    "note": "Publisher citation/book copyright 2023; online-date/Crossref erroneously 2012.",
+    "doi": "10.1007/978-3-031-10507-4_5"
+  },
+  "23": {
+    "url": "https://www.ccsc.org/publications/journals/EA2022.pdf#page=207",
+    "type": "poster",
+    "year": 2022,
+    "note": "Faculty poster abstract, not full journal article.",
+    "pdf": "https://www.ccsc.org/publications/journals/EA2022.pdf#page=207"
+  },
+  "24": {
+    "url": "https://doi.org/10.1109/mce.2023.3245283",
+    "doi": "10.1109/mce.2023.3245283",
+    "type": "journal",
+    "year": 2024,
+    "note": "Exact/near-exact title and author verified in Crossref publisher deposit. CSV 2023 is early access; issue year 2024.",
+    "verified_title": "Leveraging Blockchain Interoperability for Interdependent Networks"
+  },
+  "25": {
+    "url": "https://doi.org/10.1109/ssci51031.2022.10022015",
+    "doi": "10.1109/ssci51031.2022.10022015",
+    "year": 2022,
+    "type": "conference",
+    "note": "Title and author match verified in Crossref publisher metadata.",
+    "verified_title": "Label Flipping Data Poisoning Attack Against Wearable Human Activity Recognition System"
+  },
+  "26": {
+    "url": "https://doi.org/10.1109/smartcomp58114.2023.00085",
+    "doi": "10.1109/smartcomp58114.2023.00085",
+    "year": 2023,
+    "type": "conference",
+    "note": "Title and author match verified in Crossref publisher metadata.",
+    "verified_title": "Assessing Wearable Human Activity Recognition Systems Against Data Poisoning Attacks in Differentially-Private Federated Learning"
+  },
+  "27": {
+    "url": "https://iacis.org/conference/proceedings/IACIS_2023_Proceedings",
+    "type": "panel",
+    "year": 2023,
+    "note": "Official IACIS 2023 proceedings/program verifies panel. Not a research paper."
+  },
+  "28": {
+    "url": null,
+    "type": "unresolved",
+    "year": "2012",
+    "note": "Direct primary link not yet verified."
+  },
+  "29": {
+    "url": "https://doi.org/10.1109/dsc61021.2023.10354149",
+    "doi": "10.1109/dsc61021.2023.10354149",
+    "type": "conference",
+    "year": 2023,
+    "note": "Exact/near-exact title and author verified in Crossref publisher deposit.",
+    "verified_title": "FLID: Intrusion Attack and Defense Mechanism for Federated Learning Empowered Connected Autonomous Vehicles (CAVs) Application"
+  },
+  "30": {
+    "url": "https://doi.org/10.1109/tai.2024.3352529",
+    "doi": "10.1109/tai.2024.3352529",
+    "type": "journal",
+    "year": 2024,
+    "note": "Exact/near-exact title and author verified in Crossref publisher deposit.",
+    "verified_title": "Securing User Privacy in Cloud-Based Whiteboard Services Against Health Attribute Inference Attacks"
+  },
+  "31": {
+    "url": "https://doi.org/10.1109/tai.2024.3352529",
+    "doi": "10.1109/tai.2024.3352529",
+    "type": "journal",
+    "year": 2024,
+    "note": "Duplicate of row 30. Publisher title includes Securing User Privacy.",
+    "verified_title": "Securing User Privacy in Cloud-Based Whiteboard Services Against Health Attribute Inference Attacks"
+  },
+  "32": {
+    "url": "https://doi.org/10.1109/dsc61021.2023.10354149",
+    "doi": "10.1109/dsc61021.2023.10354149",
+    "type": "conference",
+    "year": 2023,
+    "note": "Duplicate of row 29.",
+    "verified_title": "FLID: Intrusion Attack and Defense Mechanism for Federated Learning Empowered Connected Autonomous Vehicles (CAVs) Application"
+  },
+  "33": {
+    "url": "https://doi.org/10.1109/sustech60925.2024.10553496",
+    "doi": "10.1109/sustech60925.2024.10553496",
+    "year": 2024,
+    "type": "conference",
+    "note": "Title and author match verified in Crossref publisher metadata.",
+    "verified_title": "The Environmental Price of Intelligence: Evaluating the Social Cost of Carbon in Machine Learning"
+  },
+  "34": {
+    "url": null,
+    "type": "unresolved",
+    "year": "2024",
+    "note": "Direct primary link not yet verified."
+  },
+  "35": {
+    "url": "https://doi.org/10.1109/sustech60925.2024.10553449",
+    "doi": "10.1109/sustech60925.2024.10553449",
+    "year": 2024,
+    "type": "conference",
+    "note": "Title and author match verified in Crossref publisher metadata.",
+    "verified_title": "Generative AI-based Land Cover Classification via Federated Learning CNNs: Sustainable Insights from UAV Imagery"
+  },
+  "36": {
+    "url": "https://doi.org/10.1109/infocomwkshps61880.2024.10620768",
+    "doi": "10.1109/infocomwkshps61880.2024.10620768",
+    "type": "workshop",
+    "year": 2024,
+    "note": "Exact/near-exact title and author verified in Crossref publisher deposit.",
+    "verified_title": "Context-Aware Spatiotemporal Poisoning Attacks on Wearable-Based Activity Recognition"
+  },
+  "37": {
+    "url": null,
+    "type": "unresolved",
+    "year": "2012",
+    "note": "Direct primary link not yet verified."
+  },
+  "38": {
+    "url": "https://doi.org/10.1007/s00146-024-01934-y",
+    "doi": "10.1007/s00146-024-01934-y",
+    "type": "journal",
+    "year": 2024,
+    "note": "Exact/near-exact title and author verified in Crossref publisher deposit.",
+    "verified_title": "Sticks and stones may break my bones, but words will never hurt me!—Navigating the cybersecurity risks of generative AI"
+  },
+  "39": {
+    "url": "https://doi.org/10.1109/ICCWorkshops59551.2024.10615723",
+    "type": "workshop",
+    "year": 2024,
+    "note": "Verified previously in Crossref.",
+    "doi": "10.1109/ICCWorkshops59551.2024.10615723"
+  },
+  "40": {
+    "url": "https://doi.org/10.1109/compsac61105.2024.00206",
+    "doi": "10.1109/compsac61105.2024.00206",
+    "type": "conference",
+    "year": 2024,
+    "note": "Exact/near-exact title and author verified in Crossref publisher deposit.",
+    "verified_title": "Distributed Threat Intelligence at the Edge Devices: A Large Language Model-Driven Approach"
+  },
+  "41": {
+    "url": null,
+    "type": "unresolved",
+    "year": "2024",
+    "note": "Direct primary link not yet verified."
+  },
+  "42": {
+    "url": "https://doi.org/10.1109/ICDCSW63686.2024.00009",
+    "type": "workshop",
+    "year": 2024,
+    "note": "NSF full paper verifies ICDCS Workshops, not main conference.",
+    "doi": "10.1109/icdcsw63686.2024.00009",
+    "pdf": "https://par.nsf.gov/servlets/purl/10575888",
+    "verified_title": "FLAMINGO: Adaptive and Resilient Federated Meta-Learning against Adversarial Attacks"
+  },
+  "43": {
+    "url": "https://doi.org/10.1109/compsac61105.2024.00069",
+    "doi": "10.1109/compsac61105.2024.00069",
+    "type": "conference",
+    "year": 2024,
+    "note": "Exact/near-exact title and author verified in Crossref publisher deposit.",
+    "verified_title": "FedAVO: Improving Communication Efficiency in Federated Learning with African Vultures Optimizer"
+  },
+  "44": {
+    "url": "https://doi.org/10.1109/compsac61105.2024.00270",
+    "doi": "10.1109/compsac61105.2024.00270",
+    "year": 2024,
+    "type": "conference",
+    "note": "Title and author match verified in Crossref publisher metadata.",
+    "verified_title": "Enhancing Road Safety Through Cost-Effective, Real-Time Monitoring of Driver Awareness with Resource-Constrained IoT Devices"
+  },
+  "45": {
+    "url": "https://doi.org/10.1109/compsac61105.2024.00228",
+    "doi": "10.1109/compsac61105.2024.00228",
+    "type": "conference",
+    "year": 2024,
+    "note": "Exact/near-exact title and author verified in Crossref publisher deposit.",
+    "verified_title": "Large Language Model Integrated Healthcare Cyber-Physical Systems Architecture"
+  },
+  "46": {
+    "url": "https://doi.org/10.1109/COMPSAC61105.2024.00351",
+    "type": "conference",
+    "year": 2024,
+    "note": "IEEE primary record verified.",
+    "doi": "10.1109/compsac61105.2024.00351",
+    "verified_title": "WatchOverGPT: A Framework for Real-Time Crime Detection and Response Using Wearable Camera and Large Language Model"
+  }
+}

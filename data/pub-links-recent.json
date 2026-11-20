@@ -1,0 +1,311 @@
+{
+  "47": {
+    "url": "https://doi.org/10.62273/EQZE3625",
+    "type": "Journal",
+    "year": 2024,
+    "note": "Primary JISE:35(4),495\u2013511; Master\u2019s rather than Masters.",
+    "paper": "https://jise.org/Volume35/n4/JISE2024v35n4pp495-511.html",
+    "doi": "10.62273/EQZE3625"
+  },
+  "48": {
+    "url": "https://arxiv.org/abs/2407.18407",
+    "type": "Preprint",
+    "year": 2024,
+    "note": "arXiv identifier supplied in bibliography; not independently revalidated in this audit. Duplicate/version of row45; merge.",
+    "pdf": "https://arxiv.org/pdf/2407.18407"
+  },
+  "49": {
+    "url": null,
+    "type": "Conference Poster",
+    "year": 2024,
+    "note": "Official BSN2024 Day3 Poster Session lists exact title; direct paper URL/DOI unresolved.",
+    "source": "https://bsn.embs.org/2024/program/session/"
+  },
+  "50": {
+    "url": "https://doi.org/10.1109/ICMLA61862.2024.00228",
+    "type": "Conference",
+    "year": 2024,
+    "note": "DBLP DOI resolves to IEEE10903230; IEEE robot wall. CSV title supported by DBLP despite altered title on coauthor website.",
+    "doi": "10.1109/ICMLA61862.2024.00228"
+  },
+  "51": {
+    "url": "https://doi.org/10.1109/MCE.2024.3458350",
+    "type": "Journal",
+    "year": 2025,
+    "note": "Issue14(3),27\u201334 is2025; early-access2024. Link previously verified in project.",
+    "doi": "10.1109/MCE.2024.3458350"
+  },
+  "52": {
+    "url": "https://doi.org/10.1109/ICMLA61862.2024.00037",
+    "type": "Conference",
+    "year": 2024,
+    "note": "DBLP DOI resolves to IEEE10903502; IEEE robot wall. pp230\u2013235.",
+    "doi": "10.1109/ICMLA61862.2024.00037"
+  },
+  "53": {
+    "url": "https://doi.org/10.1109/ICMLA61862.2024.00233",
+    "type": "Conference",
+    "year": 2024,
+    "note": "Previously verified DOI; pp1510\u20131515.",
+    "doi": "10.1109/ICMLA61862.2024.00233"
+  },
+  "54": {
+    "url": "https://openreview.net/forum?id=GAEZOAqrtA",
+    "type": "Workshop Poster",
+    "year": 2024,
+    "note": "Primary OpenReview PDF found with exact poster title. Forum route currently browser challenge; PDF indexed successfully.",
+    "pdf": "https://openreview.net/pdf?id=GAEZOAqrtA"
+  },
+  "55": {
+    "url": "https://arxiv.org/abs/2501.18727",
+    "type": "Workshop",
+    "year": 2025,
+    "note": "Paper link supplied CSV; AAAI PPAI workshop, not main AAAI.",
+    "pdf": "https://arxiv.org/pdf/2501.18727"
+  },
+  "56": {
+    "url": "https://doi.org/10.1007/978-3-031-10507-4_5",
+    "type": "Book Chapter",
+    "year": 2023,
+    "note": "Publisher2023 previously verified; CSV2022 and duplicate row22 year2012 conflict. Merge duplicates.",
+    "doi": "10.1007/978-3-031-10507-4_5"
+  },
+  "57": {
+    "url": "https://doi.org/10.1109/GLOBECOM59602.2025.11432163",
+    "type": "Conference",
+    "year": 2025,
+    "note": "GLOBECOM2025pp4445\u20134450 confirmed DBLP; DOI found bibliographic search, primary page inaccessible. Merge preprint row58.",
+    "doi": "10.1109/GLOBECOM59602.2025.11432163"
+  },
+  "58": {
+    "url": "https://arxiv.org/abs/2505.06454",
+    "type": "Preprint",
+    "year": 2025,
+    "note": "Preprint version of published row57; merge rather than duplicate.",
+    "pdf": "https://arxiv.org/pdf/2505.06454"
+  },
+  "59": {
+    "url": "https://doi.org/10.1609/aaaiss.v5i1.35580",
+    "type": "Symposium",
+    "year": 2025,
+    "note": "Primary or publisher link verified.",
+    "paper": "https://ojs.aaai.org/index.php/AAAI-SS/article/view/35580",
+    "pdf": "https://ojs.aaai.org/index.php/AAAI-SS/article/download/35580/37735",
+    "abstract": "This paper compares parameter-efficient fine-tuning of large language models for medical question answering, considering answer quality and resource efficiency for edge deployment.",
+    "doi": "10.1609/aaaiss.v5i1.35580"
+  },
+  "60": {
+    "url": "https://arxiv.org/abs/2505.23938",
+    "type": "Preprint",
+    "year": 2025,
+    "note": "arXiv identifier supplied in bibliography; not independently revalidated in this audit.",
+    "pdf": "https://arxiv.org/pdf/2505.23938"
+  },
+  "61": {
+    "url": "https://arxiv.org/abs/2505.23938",
+    "type": "Preprint",
+    "year": 2025,
+    "note": "arXiv identifier supplied in bibliography; not independently revalidated in this audit. Duplicate/version of row60; merge.",
+    "pdf": "https://arxiv.org/pdf/2505.23938"
+  },
+  "62": {
+    "url": "https://arxiv.org/abs/2506.03870",
+    "type": "Preprint",
+    "year": 2025,
+    "note": "arXiv identifier supplied in bibliography; not independently revalidated in this audit.",
+    "pdf": "https://arxiv.org/pdf/2506.03870"
+  },
+  "63": {
+    "url": "https://openaccess.thecvf.com/content/CVPR2025W/TCV/html/Fime_Towards_Trustworthy_Autonomous_Vehicles_with_Vision-Language_Models_Under_Targeted_and_CVPRW_2025_paper.html",
+    "type": "Workshop",
+    "year": 2025,
+    "note": "Previously verified CVPR workshop; current fetch403."
+  },
+  "64": {
+    "url": "https://doi.org/10.1109/TSUSC.2025.3578834",
+    "type": "Journal",
+    "year": 2025,
+    "note": "Previously verified;10(6),1085\u20131102.",
+    "doi": "10.1109/TSUSC.2025.3578834"
+  },
+  "65": {
+    "url": "https://doi.org/10.22260/ISARC2025/0077",
+    "type": "Conference",
+    "year": 2025,
+    "note": "Primary or publisher link verified.",
+    "pdf": "https://www.iaarc.org/publications/fulltext/077_Development_of_a_Fall_Detection_and_Safety_Communication_System_Using_Small_Language_Models.pdf",
+    "doi": "10.22260/ISARC2025/0077"
+  },
+  "66": {
+    "url": "https://doi.org/10.22260/ISARC2025/0159",
+    "type": "Conference",
+    "year": 2025,
+    "note": "Primary or publisher link verified.",
+    "pdf": "https://www.iaarc.org/publications/fulltext/159_Development_of_a_Hand-Arm_Vibration_Syndrome_HAVS_Detection_Tool_for_Construction_Workers.pdf",
+    "abstract": "This study proposes a machine-learning approach to assessing hand tremors from hand drawings, exploring a potential tool for monitoring hand-arm vibration syndrome risks among construction workers.",
+    "doi": "10.22260/ISARC2025/0159"
+  },
+  "67": {
+    "url": "https://doi.org/10.22260/ISARC2025/0085",
+    "type": "Conference",
+    "year": 2025,
+    "note": "Previously verified IAARC publisher.",
+    "doi": "10.22260/ISARC2025/0085"
+  },
+  "68": {
+    "url": "https://doi.org/10.36227/techrxiv.176162216.64823146/v1",
+    "type": "Preprint",
+    "year": 2025,
+    "note": "DOI discovered in ResearchGate and corroborating citations; original manuscript PDF indexed from TechRxiv host, DOI landing not yet revalidated.",
+    "pdf": "https://d197for5662m48.cloudfront.net/documents/publicationstatus/287103/preprint_pdf/d3bb97860e7386262a402849fa2f69b1.pdf",
+    "doi": "10.36227/techrxiv.176162216.64823146/v1"
+  },
+  "69": {
+    "url": "https://arxiv.org/abs/2511.02894",
+    "type": "Preprint",
+    "year": 2025,
+    "note": "arXiv identifier supplied in bibliography; not independently revalidated in this audit.",
+    "pdf": "https://arxiv.org/pdf/2511.02894"
+  },
+  "70": {
+    "url": "https://doi.org/10.1109/TSUSC.2025.3633995",
+    "type": "Journal",
+    "year": 2026,
+    "note": "Coauthor primary bibliography DOI resolves IEEE11250900; IEEE robot wall. DOI includes2025 early access; CSV2026 retained.",
+    "doi": "10.1109/TSUSC.2025.3633995"
+  },
+  "71": {
+    "url": "https://doi.org/10.1109/ICMLA66185.2025.00215",
+    "type": "Conference",
+    "year": 2025,
+    "note": "DOI corroborated bibliographic search; publisher full metadata not accessible.",
+    "doi": "10.1109/ICMLA66185.2025.00215"
+  },
+  "72": {
+    "url": "https://doi.org/10.1038/s41598-026-48102-4",
+    "type": "Journal",
+    "year": 2026,
+    "note": "Coauthor primary bibliography DOI resolves Nature article; Nature authentication redirect blocked.",
+    "doi": "10.1038/s41598-026-48102-4"
+  },
+  "73": {
+    "url": null,
+    "type": "Workshop",
+    "year": 2026,
+    "note": "CVPR2026 SoS Workshop verified coauthor site; do not label main CVPR. Rows73,81,83 duplicates; primary paper URL unresolved."
+  },
+  "74": {
+    "url": "https://doi.org/10.1109/ICMLA66185.2025.00209",
+    "type": "Conference",
+    "year": 2025,
+    "note": "DOI from DBLP; official ICMLA2025 program paper663 confirms title; pp1369\u20131375.",
+    "doi": "10.1109/ICMLA66185.2025.00209"
+  },
+  "75": {
+    "url": "https://aclanthology.org/2026.acl-industry.128/",
+    "type": "Conference",
+    "year": 2026,
+    "note": "Previously verified ACL Industry Track, distinguish from main research track."
+  },
+  "76": {
+    "url": "https://arxiv.org/abs/2604.27369",
+    "type": "Preprint",
+    "year": 2026,
+    "note": "arXiv identifier supplied in bibliography; not independently revalidated in this audit.",
+    "pdf": "https://arxiv.org/pdf/2604.27369"
+  },
+  "77": {
+    "url": "https://arxiv.org/abs/2604.27365",
+    "type": "Preprint",
+    "year": 2026,
+    "note": "arXiv identifier supplied in bibliography; not independently revalidated in this audit.",
+    "pdf": "https://arxiv.org/pdf/2604.27365"
+  },
+  "78": {
+    "url": "https://arxiv.org/abs/2605.20442",
+    "type": "Preprint",
+    "year": 2026,
+    "note": "arXiv identifier supplied in bibliography; not independently revalidated in this audit.",
+    "pdf": "https://arxiv.org/pdf/2605.20442"
+  },
+  "79": {
+    "url": "https://arxiv.org/abs/2604.27365",
+    "type": "Preprint",
+    "year": 2026,
+    "note": "arXiv identifier supplied in bibliography; not independently revalidated in this audit. Duplicate/version of row77; merge.",
+    "pdf": "https://arxiv.org/pdf/2604.27365"
+  },
+  "80": {
+    "url": "https://arxiv.org/abs/2604.27369",
+    "type": "Preprint",
+    "year": 2026,
+    "note": "arXiv identifier supplied in bibliography; not independently revalidated in this audit. Duplicate/version of row76; merge.",
+    "pdf": "https://arxiv.org/pdf/2604.27369"
+  },
+  "81": {
+    "url": null,
+    "type": "Workshop",
+    "year": 2026,
+    "note": "CVPR2026 SoS Workshop verified coauthor site; do not label main CVPR. Rows73,81,83 duplicates; primary paper URL unresolved."
+  },
+  "82": {
+    "url": "https://arxiv.org/abs/2605.20442",
+    "type": "Preprint",
+    "year": 2026,
+    "note": "arXiv identifier supplied in bibliography; not independently revalidated in this audit. Duplicate/version of row78; merge.",
+    "pdf": "https://arxiv.org/pdf/2605.20442"
+  },
+  "83": {
+    "url": null,
+    "type": "Workshop",
+    "year": 2026,
+    "note": "CVPR2026 SoS Workshop verified coauthor site; do not label main CVPR. Rows73,81,83 duplicates; primary paper URL unresolved."
+  },
+  "84": {
+    "url": "https://arxiv.org/abs/2607.26042",
+    "type": "Preprint",
+    "year": 2026,
+    "note": "arXiv identifier supplied in bibliography; not independently revalidated in this audit.",
+    "pdf": "https://arxiv.org/pdf/2607.26042"
+  },
+  "85": {
+    "url": "https://arxiv.org/abs/2607.26042",
+    "type": "Preprint",
+    "year": 2026,
+    "note": "arXiv identifier supplied in bibliography; not independently revalidated in this audit. Duplicate/version of row84; merge.",
+    "pdf": "https://arxiv.org/pdf/2607.26042"
+  },
+  "86": {
+    "url": "https://aclanthology.org/2026.emnlp-main.1661/",
+    "type": "Conference",
+    "year": 2026,
+    "note": "Previously verified ACL Anthology."
+  },
+  "87": {
+    "url": "https://arxiv.org/abs/2610.11261",
+    "type": "Preprint",
+    "year": 2026,
+    "note": "arXiv identifier supplied in bibliography; not independently revalidated in this audit.",
+    "pdf": "https://arxiv.org/pdf/2610.11261"
+  },
+  "88": {
+    "url": "https://arxiv.org/abs/2610.36379",
+    "type": "Preprint",
+    "year": 2026,
+    "note": "arXiv identifier supplied in bibliography; not independently revalidated in this audit.",
+    "pdf": "https://arxiv.org/pdf/2610.36379"
+  },
+  "89": {
+    "url": "https://arxiv.org/abs/2610.36379",
+    "type": "Preprint",
+    "year": 2026,
+    "note": "arXiv identifier supplied in bibliography; not independently revalidated in this audit. Duplicate/version of row88; merge.",
+    "pdf": "https://arxiv.org/pdf/2610.36379"
+  },
+  "90": {
+    "url": null,
+    "type": "Conference",
+    "year": 2026,
+    "note": "ICTAI2026 on primary coauthor site; title there says A Systematic Study, CSV A Controlled Study. Keep supplied title until publisher confirms. Direct paper URL unresolved."
+  }
+}

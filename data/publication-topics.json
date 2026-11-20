@@ -1,0 +1,336 @@
+{
+  "taxonomy": [
+    "AI Security & Privacy",
+    "Digital Forensics",
+    "LLMs",
+    "Multimodal AI",
+    "Computer Vision",
+    "Agentic AI",
+    "Quantum AI",
+    "Wearable Sensing",
+    "Cyber-Physical Systems & IoT",
+    "Sustainable & Resource-Efficient AI",
+    "Federated Learning",
+    "Blockchain",
+    "Healthcare AI",
+    "Education",
+    "Computational Geometry"
+  ],
+  "assignments": {
+    "73": [
+      "AI Security & Privacy",
+      "Multimodal AI",
+      "Wearable Sensing"
+    ],
+    "86": [
+      "Digital Forensics",
+      "Computer Vision",
+      "Multimodal AI"
+    ],
+    "76": [
+      "AI Security & Privacy"
+    ],
+    "88": [
+      "Federated Learning",
+      "Healthcare AI",
+      "Multimodal AI"
+    ],
+    "77": [
+      "LLMs"
+    ],
+    "78": [
+      "Agentic AI"
+    ],
+    "75": [
+      "AI Security & Privacy",
+      "LLMs"
+    ],
+    "87": [
+      "Quantum AI"
+    ],
+    "70": [
+      "AI Security & Privacy",
+      "Federated Learning",
+      "Sustainable & Resource-Efficient AI"
+    ],
+    "72": [
+      "AI Security & Privacy",
+      "Federated Learning",
+      "Multimodal AI"
+    ],
+    "84": [
+      "Agentic AI",
+      "Multimodal AI",
+      "Healthcare AI"
+    ],
+    "90": [
+      "Quantum AI"
+    ],
+    "68": [
+      "LLMs",
+      "Wearable Sensing"
+    ],
+    "69": [
+      "AI Security & Privacy",
+      "LLMs",
+      "Wearable Sensing"
+    ],
+    "55": [
+      "AI Security & Privacy",
+      "LLMs"
+    ],
+    "59": [
+      "LLMs",
+      "Sustainable & Resource-Efficient AI",
+      "Healthcare AI"
+    ],
+    "71": [
+      "AI Security & Privacy",
+      "Multimodal AI"
+    ],
+    "64": [
+      "Sustainable & Resource-Efficient AI"
+    ],
+    "65": [
+      "LLMs",
+      "Cyber-Physical Systems & IoT"
+    ],
+    "66": [
+      "Cyber-Physical Systems & IoT",
+      "Healthcare AI"
+    ],
+    "60": [
+      "Digital Forensics"
+    ],
+    "62": [
+      "AI Security & Privacy",
+      "LLMs"
+    ],
+    "51": [
+      "AI Security & Privacy",
+      "Sustainable & Resource-Efficient AI"
+    ],
+    "67": [
+      "LLMs"
+    ],
+    "74": [
+      "AI Security & Privacy",
+      "Federated Learning",
+      "Wearable Sensing"
+    ],
+    "57": [
+      "AI Security & Privacy",
+      "Sustainable & Resource-Efficient AI",
+      "Wearable Sensing"
+    ],
+    "63": [
+      "AI Security & Privacy",
+      "Multimodal AI",
+      "Computer Vision"
+    ],
+    "47": [
+      "Education"
+    ],
+    "36": [
+      "AI Security & Privacy",
+      "Wearable Sensing"
+    ],
+    "49": [
+      "AI Security & Privacy",
+      "LLMs",
+      "Wearable Sensing"
+    ],
+    "40": [
+      "AI Security & Privacy",
+      "LLMs"
+    ],
+    "44": [
+      "Cyber-Physical Systems & IoT",
+      "Sustainable & Resource-Efficient AI"
+    ],
+    "43": [
+      "Federated Learning",
+      "Sustainable & Resource-Efficient AI"
+    ],
+    "42": [
+      "AI Security & Privacy",
+      "Federated Learning"
+    ],
+    "34": [
+      "Education",
+      "LLMs"
+    ],
+    "35": [
+      "Federated Learning",
+      "Computer Vision",
+      "LLMs"
+    ],
+    "52": [
+      "LLMs",
+      "Cyber-Physical Systems & IoT"
+    ],
+    "45": [
+      "LLMs",
+      "Cyber-Physical Systems & IoT",
+      "Healthcare AI"
+    ],
+    "24": [
+      "Blockchain"
+    ],
+    "54": [
+      "AI Security & Privacy",
+      "LLMs",
+      "Wearable Sensing"
+    ],
+    "30": [
+      "AI Security & Privacy"
+    ],
+    "41": [
+      "Federated Learning",
+      "Computer Vision"
+    ],
+    "38": [
+      "AI Security & Privacy",
+      "LLMs"
+    ],
+    "33": [
+      "Sustainable & Resource-Efficient AI"
+    ],
+    "39": [
+      "AI Security & Privacy",
+      "Sustainable & Resource-Efficient AI"
+    ],
+    "50": [
+      "Federated Learning",
+      "Multimodal AI",
+      "Sustainable & Resource-Efficient AI"
+    ],
+    "46": [
+      "LLMs",
+      "Wearable Sensing",
+      "Computer Vision"
+    ],
+    "53": [
+      "AI Security & Privacy",
+      "LLMs",
+      "Wearable Sensing"
+    ],
+    "26": [
+      "AI Security & Privacy",
+      "Federated Learning",
+      "Wearable Sensing"
+    ],
+    "29": [
+      "AI Security & Privacy",
+      "Federated Learning",
+      "Cyber-Physical Systems & IoT"
+    ],
+    "27": [
+      "Education"
+    ],
+    "22": [
+      "AI Security & Privacy",
+      "Blockchain",
+      "Cyber-Physical Systems & IoT"
+    ],
+    "21": [
+      "Blockchain",
+      "Cyber-Physical Systems & IoT"
+    ],
+    "23": [
+      "Education",
+      "Cyber-Physical Systems & IoT"
+    ],
+    "25": [
+      "AI Security & Privacy",
+      "Wearable Sensing"
+    ],
+    "16": [
+      "AI Security & Privacy",
+      "Healthcare AI"
+    ],
+    "20": [
+      "AI Security & Privacy",
+      "Computer Vision"
+    ],
+    "17": [
+      "Blockchain"
+    ],
+    "15": [
+      "AI Security & Privacy",
+      "Computer Vision"
+    ],
+    "19": [
+      "AI Security & Privacy",
+      "Healthcare AI"
+    ],
+    "18": [
+      "AI Security & Privacy",
+      "Wearable Sensing"
+    ],
+    "10": [
+      "AI Security & Privacy",
+      "Blockchain",
+      "Cyber-Physical Systems & IoT"
+    ],
+    "11": [
+      "AI Security & Privacy"
+    ],
+    "13": [
+      "AI Security & Privacy",
+      "Blockchain",
+      "Cyber-Physical Systems & IoT"
+    ],
+    "6": [
+      "AI Security & Privacy"
+    ],
+    "8": [
+      "AI Security & Privacy",
+      "Blockchain",
+      "Cyber-Physical Systems & IoT"
+    ],
+    "7": [
+      "Computer Vision",
+      "Cyber-Physical Systems & IoT"
+    ],
+    "5": [
+      "Blockchain",
+      "Cyber-Physical Systems & IoT"
+    ],
+    "9": [
+      "AI Security & Privacy",
+      "Blockchain",
+      "Cyber-Physical Systems & IoT"
+    ],
+    "12": [
+      "AI Security & Privacy",
+      "Blockchain",
+      "Cyber-Physical Systems & IoT"
+    ],
+    "3": [
+      "AI Security & Privacy"
+    ],
+    "2": [
+      "AI Security & Privacy"
+    ],
+    "4": [
+      "AI Security & Privacy",
+      "Cyber-Physical Systems & IoT"
+    ],
+    "1": [
+      "AI Security & Privacy"
+    ],
+    "0": [
+      "Computational Geometry"
+    ],
+    "14": [
+      "Digital Forensics",
+      "Computer Vision"
+    ],
+    "28": [],
+    "37": [
+      "Computer Vision"
+    ]
+  },
+  "method": "Editorial topic tags based on supplied titles and verified publication metadata, not author-assigned keywords. Ambiguous records are left untagged."
+}

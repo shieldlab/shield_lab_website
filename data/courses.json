@@ -1,0 +1,239 @@
+[
+  {
+    "slug": "ethical-hacking",
+    "code": "CS 409 / CS 509",
+    "title": "Ethical Hacking",
+    "credits": 3,
+    "level": "Undergraduate and graduate",
+    "directorCodes": [
+      "CS 409/509"
+    ],
+    "overview": "Students examine how security weaknesses arise in computing systems and how to recognize, assess, and address them. Lectures and controlled virtual-machine labs connect security principles to defensive decisions and responsible professional practice.",
+    "topics": [
+      "Cybersecurity foundations, authentication, and privacy",
+      "Network, system, web, and database security",
+      "Malware and social engineering risks",
+      "Firewalls, intrusion detection, and network protection"
+    ],
+    "objectives": [
+      "Assess security weaknesses and propose safeguards for a given network scenario.",
+      "Explain how security controls reduce risk and when to use them.",
+      "Develop and communicate a network protection plan."
+    ],
+    "practice": "Assignments, controlled labs, quizzes, and exams build applied security judgment. CS 509 students also complete a graduate research project, communicating their findings through a technical report, an oral presentation, or both.",
+    "offered": [
+      "Fall 2026",
+      "Fall 2025",
+      "Fall 2024"
+    ]
+  },
+  {
+    "slug": "digital-forensics",
+    "code": "CS 413 / CS 591",
+    "title": "Digital Forensics",
+    "credits": 3,
+    "level": "Undergraduate and graduate",
+    "directorCodes": [
+      "CS 413/591"
+    ],
+    "overview": "This course develops the mindset and foundational skills needed to investigate digital incidents. It covers forensic methods for desktop and mobile systems, emphasizing the relationship between technical evidence and legal considerations.",
+    "topics": [
+      "Confidentiality, integrity, and availability",
+      "Digital investigation methods and legal considerations",
+      "Digital evidence acquisition and media analysis",
+      "Forensic tools for desktop and mobile platforms"
+    ],
+    "objectives": [
+      "Explain core digital forensic methods and relevant legal concerns.",
+      "Acquire and analyze basic digital media evidence in a controlled setting."
+    ],
+    "practice": "Hands-on assignments and labs complement a practical investigation project and presentation. Quizzes and exams assess understanding of the methods.",
+    "highlights": [
+      {
+        "term": "Fall 2024",
+        "projects": [
+          {
+            "title": "Meta Quest 3 Forensics"
+          },
+          {
+            "title": "Detecting Face-Swap Deepfake Video Manipulation"
+          },
+          {
+            "title": "ChatGPT Forensics",
+            "publicationId": 60
+          },
+          {
+            "title": "AI Image Editor App Forensics"
+          },
+          {
+            "title": "Forensic Investigation into AI Image Editors"
+          },
+          {
+            "title": "Dash Cam Digital Forensics"
+          },
+          {
+            "title": "Deepfake Forensics"
+          },
+          {
+            "title": "Network Forensics"
+          },
+          {
+            "title": "Meta Ray-Ban Forensics"
+          },
+          {
+            "title": "Google Drive Simulation Magnet Forensics"
+          },
+          {
+            "title": "Phone AI Image Editing"
+          }
+        ]
+      }
+    ],
+    "offered": [
+      "Fall 2024",
+      "Fall 2023"
+    ]
+  },
+  {
+    "slug": "cyber-physical-systems",
+    "highlightCollection": "cps",
+    "code": "CS 431",
+    "title": "Cyber-Physical Systems",
+    "credits": 3,
+    "level": "Undergraduate",
+    "directorCodes": [
+      "CS 431"
+    ],
+    "overview": "Students study computing and communication in systems that interact with the physical world. Using examples such as connected devices, smart grids, and autonomous vehicles, they learn to model, simulate, and verify cyber-physical systems.",
+    "topics": [
+      "Cyber-physical systems and the Internet of Things",
+      "Mathematical modeling and simulation",
+      "Analysis, testing, and verification",
+      "Automatic synthesis and control"
+    ],
+    "objectives": [
+      "Model and simulate basic cyber-physical systems.",
+      "Compare approaches to analysis, testing, and verification.",
+      "Explain the role of synthesis and control in cyber-physical systems design."
+    ],
+    "practice": "Students complete an applied project, a short written report, and a virtual poster that describes the motivation, approach, and results.",
+    "related": [
+      "security-in-cyber-physical-systems"
+    ],
+    "offered": [
+      "Spring 2026",
+      "Spring 2025",
+      "Spring 2024"
+    ]
+  },
+  {
+    "slug": "security-in-cyber-physical-systems",
+    "highlightCollection": "cps",
+    "code": "CS 531",
+    "title": "Security in Cyber-Physical Systems",
+    "credits": 3,
+    "level": "Graduate",
+    "directorCodes": [
+      "CS 531"
+    ],
+    "related": [
+      "cyber-physical-systems"
+    ],
+    "overview": "The graduate counterpart to CS 431 connects modeling and analysis of cyber-physical systems to security research. Students examine how to assess systems that combine computation, communication, and physical processes and communicate what their evidence supports.",
+    "topics": [
+      "Cyber-physical systems and the Internet of Things",
+      "Mathematical modeling and simulation",
+      "Analysis, testing, and verification",
+      "Automatic synthesis and control",
+      "Current research in cyber-physical systems security"
+    ],
+    "objectives": [
+      "Apply modeling, simulation, and verification concepts to cyber-physical systems.",
+      "Critically evaluate research on cyber-physical systems security.",
+      "Communicate security research findings to technical and nontechnical audiences."
+    ],
+    "practice": "Students complete a graduate-level project, write a technical report covering the problem, prior work, methodology, and results, and deliver an oral presentation with slides.",
+    "offered": [
+      "Spring 2026",
+      "Spring 2025"
+    ]
+  },
+  {
+    "slug": "wireless-and-network-security",
+    "code": "CS 510",
+    "title": "Wireless and Network Security",
+    "credits": 3,
+    "level": "Graduate",
+    "directorCodes": [
+      "CS 510"
+    ],
+    "overview": "This course covers the security of distributed systems and wired and wireless networks. Students learn to evaluate protocols, design appropriate controls, and reason about the resilience and operation of networked systems.",
+    "topics": [
+      "IEEE 802.11 security, wireless encryption, and authentication",
+      "Network key management, routing, switching, and segmentation",
+      "Intrusion detection, security monitoring, and denial-of-service resilience",
+      "Secure network architecture, incident response, and recovery"
+    ],
+    "objectives": [
+      "Explain security mechanisms for distributed and wireless systems.",
+      "Compare authentication, encryption, and key-management approaches.",
+      "Assess network security risks and propose detection, response, and design improvements."
+    ],
+    "practice": "Applied assignments and a course project connect protocol and network design decisions to practical security scenarios. Quizzes and a midterm assess understanding.",
+    "offered": [
+      "Spring 2026"
+    ]
+  },
+  {
+    "slug": "ai-safety-and-society",
+    "code": "UHON 351",
+    "title": "AI Safety and Society",
+    "credits": 3,
+    "level": "Undergraduate honors",
+    "directorCodes": [
+      "UHON 351"
+    ],
+    "overview": "This honors seminar examines AI safety as a societal and ethical challenge. Students explore how AI risks arise, who is affected, and how governance can protect individuals and communities while supporting beneficial uses.",
+    "topics": [
+      "Machine learning and large language model fundamentals",
+      "Societal and catastrophic risks from advanced AI",
+      "Transparency, robustness, and unintended behavior",
+      "Machine ethics, collective action, and international governance"
+    ],
+    "objectives": [
+      "Identify and explain major ethical and societal AI risks.",
+      "Use ethical frameworks to evaluate competing values and decisions.",
+      "Develop practical governance proposals that address AI safety challenges."
+    ],
+    "practice": "Team case studies, discussions, reflective essays, and quizzes build understanding. Collaborative projects develop policy proposals or ethical frameworks for managing AI risks.",
+    "offered": [
+      "Spring 2026"
+    ]
+  },
+  {
+    "slug": "ethics-safety-security-in-ai",
+    "code": "CS 290 / AIP 290",
+    "title": "Ethics, Safety and Security in Computing and AI",
+    "credits": 3,
+    "level": "Undergraduate",
+    "directorCodes": [
+      "CS/AIP 290"
+    ],
+    "overview": "This cross-listed course examines ethical, safety, and security decisions in computing and AI. Students evaluate technical and policy evidence and practice communicating their conclusions to technical and nontechnical audiences.",
+    "topics": [
+      "Professional responsibility, fairness, privacy, and stakeholder perspectives",
+      "Societal and catastrophic AI risks, reliability, and explainability",
+      "Common AI security failure modes, risk assessment, and defensive safeguards",
+      "AI governance, standards, regulation, and professional communication"
+    ],
+    "objectives": [
+      "Identify and analyze ethical, safety, and security risks in AI systems.",
+      "Apply ethical reasoning and assess possible controls for AI incidents.",
+      "Develop and communicate governance proposals grounded in technical and policy evidence."
+    ],
+    "practice": "Students analyze cases, complete homework and structured lab activities, and work on a collaborative project about an AI ethics, safety, or security challenge.",
+    "offered": [
+      "Fall 2026"
+    ]
+  }
+]
