@@ -1,0 +1,29 @@
+from pathlib import Path
+from bs4 import BeautifulSoup
+p=Path(__file__).resolve().parents[1]; d=p/'dist'
+D={
+'ai-security-privacy-forensics':(['Adversarial integrity across modalities','Privacy in consumer AI and devices','Forensic evidence and provenance'],['Characterize manipulation of text, audio, images, video and sensing inputs, with published foundations in wearable pipelines and vision–language model evaluation. Broader cross-modal coverage is an ongoing research agenda.','Study information exposure in LLM/VLM-assisted platforms and connected devices, relating system behavior to user privacy and threat assumptions.','Examine image-edit traces and application artifacts to understand what evidence can be recovered and which attribution claims it can support.'],'This work informs the evaluation of trustworthy consumer AI, sensing systems and digital evidence. Its value lies in reproducible threat analysis and explicit limits on what a detector or forensic method can establish.'),
+'secure-sustainable-ai':(['Resource-aware resilience','Efficient learning and deployment','Emerging AI infrastructure'],['Measure robustness alongside computational cost, memory, latency and energy rather than optimizing accuracy in isolation.','Investigate how model choices and deployment constraints interact in edge and resource-constrained AI systems.','Extend questions about efficiency and security toward agent systems and AI infrastructure. Data-center-scale research remains a proposed direction, not an established deployment.'],'The intended contribution is evidence for choosing AI designs under practical resource and security constraints. Benefits must be measured for each workload and platform rather than assumed from a smaller model alone.'),
+'quantum-ai-security':(['Localized quantum architectures','Transparent hybrid evaluation','Emerging security questions'],['Explore circuit locality and capsule-based structure through the Q-Capsule preprint, focusing on trainability and barren plateau behavior.','Compare quantum and hybrid learning under clearly reported simulator conditions, classical baselines and resource budgets.','Develop questions around noise, reliability and adversarial conditions in quantum AI. Security evaluation is an emerging direction rather than a demonstrated defense.'],'This research aims to clarify when architectural choices help quantum learning and how those effects should be evaluated. Simulator findings do not by themselves establish practical quantum advantage or operational security benefits.'),
+'cyber-physical-systems':(['Trustworthy wearable sensing','Language-assisted physical systems','Reliable connected intelligence'],['Study the security and privacy of sensor-to-model pipelines, from activity traces to inference on wearable and connected devices.','Investigate how LLMs and multimodal models interpret sensing evidence and support context-sensitive summaries or assistance.','Evaluate errors and resource constraints at the boundary between physical signals, edge devices and AI models, including safety-relevant use cases.'],'Applications motivate work in wellbeing, smart environments and safety-sensitive assistance. The focus is evaluating reliability and limitations in research settings, not asserting clinical validation or autonomous emergency operation.'),
+'llms-multimodal-agentic-ai':(['Grounded multimodal interpretation','Privacy and adversarial reliability','Emerging agent interactions'],['Study how language, images and sensing signals contribute to model outputs, distinguishing evidence-grounded interpretation from fluent but unsupported responses.','Evaluate LLM/VLM behavior in consumer tools and adversarial settings, including driving-scene understanding and writing-assistant privacy.','Explore agent-to-agent behavior and multimodal agent prototypes, with explicit attention to evaluation boundaries and edge–cloud constraints.'],'The goal is a stronger basis for evaluating AI assistants and multimodal workflows before they are trusted in consequential settings. Exploratory agent and screening prototypes are not evidence of validated autonomous or clinical performance.')}
+over=BeautifulSoup((d/'research.html').read_text(),'html.parser')
+for slug,(titles,descs,impact) in D.items():
+ f=d/(slug+'.html');s=BeautifulSoup(f.read_text(),'html.parser');main=s.select_one('main');main['class']=['research-page','research-detail']
+ intro=main.select_one('.page-intro');hero=main.select_one('.area-hero');pair=main.select_one(':scope > .research-pair');scope=main.select_one('.security-scope')
+ card=over.select_one(f'a[href="{slug}.html"]');overview=''.join(str(x) for x in card.select('p'))
+ goal=pair.select('p')[0].get_text();merit=pair.select('p')[1].get_text()
+ for n in [pair]:n.decompose()
+ hero.img['src']=hero.img['src'].replace('.webp','-palette.webp')
+ wrapper=s.new_tag('div',attrs={'class':'area-opening'});intro.wrap(wrapper);wrapper.append(hero.extract())
+ desc=BeautifulSoup('<section class="research-description" id="description"><h2>Research Description</h2><h3>Overview</h3>'+overview+'<h3>Research Thrusts</h3><div class="research-thrusts">'+''.join(f'<div><h4>{t}</h4><p>{v}</p></div>' for t,v in zip(titles,descs))+'</div><div class="research-pair"><div><h3>Research goals</h3><p>'+goal+'</p></div><div><h3>Intellectual merit</h3><p>'+merit+'</p></div></div><h3>Research Impact</h3><p>'+impact+'</p></section>','html.parser').section
+ wrapper.insert_after(desc)
+ if scope:desc.append(scope.extract())
+ main.find('h2',string='Projects & directions').string='Current Projects & Emerging Directions'
+ for a in main.select('.research-project'):
+  flow=a.select_one('.project-flow')
+  if flow:a.h3.insert_after(flow.extract())
+  for h in a.select('h4'):
+   if h.get_text()=='Goals':h.string='Research objectives'
+ f.write_text(str(s))
+print('Updated five dedicated pages')
